@@ -1,7 +1,8 @@
 # NFRP World: animations
 
-Recorded in-game clips of the hand-made technique animations in the RimWorld mod NFRP World. They are shown on the wiki's
-Animations tab: https://cassiegiang.github.io/NFRP-World-Wiki/animations.html
+The animations wiki for the RimWorld mod NFRP World: recorded in-game clips of every hand-made technique animation.
+`index.html` is the site (a plain static page for GitHub Pages: Settings > Pages > Deploy from a branch > main / root).
+The main wiki is https://cassiegiang.github.io/NFRP-World-Wiki/
 
 ## Folders
 - `clans-and-styles/`: 162 clips (the nine major clans, the masked guard, Red Leg, Busosen and Kenseijin), recorded
