@@ -6,1134 +6,1620 @@
    "tree": "Uchiha arts",
    "group": "Fire and the first stares",
    "file": "001-katon-great-fireball.mp4",
-   "poster": "001-katon-great-fireball.jpg"
+   "poster": "001-katon-great-fireball.jpg",
+   "desc": "The Uchiha rite of passage: a huge ball of fire. The S-rank version is larger and hotter.",
+   "rank": "C",
+   "def": "NF_GreatFireball"
   },
   {
    "label": "Katon: Great Fire Annihilation",
    "tree": "Uchiha arts",
    "group": "Fire and the first stares",
    "file": "002-katon-great-fire-annihilation.mp4",
-   "poster": "002-katon-great-fire-annihilation.jpg"
+   "poster": "002-katon-great-fire-annihilation.jpg",
+   "desc": "A sea of fire washes over a wide arc in front of the user.",
+   "rank": "S",
+   "def": "NF_FireAnnihilation"
   },
   {
    "label": "Battle Ready (Sharingan)",
    "tree": "Uchiha arts",
    "group": "Fire and the first stares",
    "file": "003-battle-ready-sharingan.mp4",
-   "poster": "003-battle-ready-sharingan.jpg"
+   "poster": "003-battle-ready-sharingan.jpg",
+   "desc": "Read the flow of the fight for half an hour: better dodging and accuracy. Needs the Sharingan active.",
+   "rank": "C",
+   "def": "NF_BattleReady"
   },
   {
    "label": "Mirror Heaven and Earth Change",
    "tree": "Uchiha arts",
    "group": "Fire and the first stares",
    "file": "004-mirror-heaven-and-earth-change.mp4",
-   "poster": "004-mirror-heaven-and-earth-change.jpg"
+   "poster": "004-mirror-heaven-and-earth-change.jpg",
+   "desc": "For ten seconds the user turns most of the force of incoming attacks back on nothing.",
+   "rank": "A",
+   "def": "NF_Mirror"
   },
   {
    "label": "Painful Stare",
    "tree": "Uchiha arts",
    "group": "Fire and the first stares",
    "file": "005-painful-stare.mp4",
-   "poster": "005-painful-stare.jpg"
+   "poster": "005-painful-stare.jpg",
+   "desc": "Meet an enemy's eyes and fill them with phantom pain for a minute. Needs the Sharingan active.",
+   "rank": "B",
+   "def": "NF_PainfulStare"
   },
   {
    "label": "Shackling Stakes",
    "tree": "Uchiha arts",
    "group": "Fire and the first stares",
    "file": "006-shackling-stakes.mp4",
-   "poster": "006-shackling-stakes.jpg"
+   "poster": "006-shackling-stakes.jpg",
+   "desc": "Pin a foe with genjutsu stakes: real wounds, a long stun. Needs the Sharingan active.",
+   "rank": "B",
+   "def": "NF_ShacklingStakes"
   },
   {
    "label": "Burning Stare",
    "tree": "Uchiha arts",
    "group": "Fire and the first stares",
    "file": "007-burning-stare.mp4",
-   "poster": "007-burning-stare.jpg"
+   "poster": "007-burning-stare.jpg",
+   "desc": "The victim burns from the inside for half a minute. Needs the Sharingan active.",
+   "rank": "B",
+   "def": "NF_BurningStare"
   },
   {
    "label": "Fatiguing Stare",
    "tree": "Uchiha arts",
    "group": "Fire and the first stares",
    "file": "008-fatiguing-stare.mp4",
-   "poster": "008-fatiguing-stare.jpg"
+   "poster": "008-fatiguing-stare.jpg",
+   "desc": "Every enemy in a small area slows to a crawl for a minute. Needs the Sharingan active.",
+   "rank": "B",
+   "def": "NF_FatiguingStare"
   },
   {
    "label": "Demoralizing Stare",
    "tree": "Uchiha arts",
    "group": "Great stares and the clear eye",
    "file": "009-demoralizing-stare.mp4",
-   "poster": "009-demoralizing-stare.jpg"
+   "poster": "009-demoralizing-stare.jpg",
+   "desc": "Visions of defeat for every enemy in an area: worse aim and dulled minds for a minute. Needs the Sharingan active.",
+   "rank": "B",
+   "def": "NF_DemoralizingStare"
   },
   {
    "label": "Wilting Stare",
    "tree": "Uchiha arts",
    "group": "Great stares and the clear eye",
    "file": "010-wilting-stare.mp4",
-   "poster": "010-wilting-stare.jpg"
+   "poster": "010-wilting-stare.jpg",
+   "desc": "Genjutsu: one enemy withers, slowed, dazed and burning for a minute. Needs the Sharingan active.",
+   "rank": "S",
+   "def": "NF_WiltingStare"
   },
   {
    "label": "Majestic Stare",
    "tree": "Uchiha arts",
    "group": "Great stares and the clear eye",
    "file": "011-majestic-stare.mp4",
-   "poster": "011-majestic-stare.jpg"
+   "poster": "011-majestic-stare.jpg",
+   "desc": "Every enemy in a wide area freezes in awe for eight seconds. Needs the Sharingan active.",
+   "rank": "S",
+   "def": "NF_MajesticStare"
   },
   {
    "label": "Gazing Genjutsu",
    "tree": "Uchiha arts",
    "group": "Great stares and the clear eye",
    "file": "012-gazing-genjutsu.mp4",
-   "poster": "012-gazing-genjutsu.jpg"
+   "poster": "012-gazing-genjutsu.jpg",
+   "desc": "Trap one enemy in an illusion. They collapse, lost, for twenty seconds. Needs the Sharingan active.",
+   "rank": "S",
+   "def": "NF_GazingGenjutsu"
   },
   {
    "label": "Telescopic Eye",
    "tree": "Hyuuga arts",
    "group": "Great stares and the clear eye",
    "file": "013-telescopic-eye.mp4",
-   "poster": "013-telescopic-eye.jpg"
+   "poster": "013-telescopic-eye.jpg",
+   "desc": "Focus the Byakugan for half an hour of far sharper shooting. Needs the Byakugan active.",
+   "rank": "C",
+   "def": "NF_TelescopicEye"
   },
   {
    "label": "Harichakra: Chakra Needles",
    "tree": "Hyuuga arts",
    "group": "Great stares and the clear eye",
    "file": "014-harichakra-chakra-needles.mp4",
-   "poster": "014-harichakra-chakra-needles.jpg"
+   "poster": "014-harichakra-chakra-needles.jpg",
+   "desc": "Fire needles of solid chakra. The great version is a single heavy needle.",
+   "rank": "D",
+   "def": "NF_ChakraNeedle"
   },
   {
    "label": "Hakke: Chakra Transfer Palm",
    "tree": "Hyuuga arts",
    "group": "Great stares and the clear eye",
    "file": "015-hakke-chakra-transfer-palm.mp4",
-   "poster": "015-hakke-chakra-transfer-palm.jpg"
+   "poster": "015-hakke-chakra-transfer-palm.jpg",
+   "desc": "Pass chakra into an ally through the palm, closing wounds.",
+   "rank": "B",
+   "def": "NF_ChakraTransfer"
   },
   {
    "label": "Chakra no Bodi: Body of Chakra",
    "tree": "Hyuuga arts",
    "group": "Great stares and the clear eye",
    "file": "016-chakra-no-bodi-body-of-chakra.mp4",
-   "poster": "016-chakra-no-bodi-body-of-chakra.jpg"
+   "poster": "016-chakra-no-bodi-body-of-chakra.jpg",
+   "desc": "Coat the whole body in chakra for ten minutes: tougher, faster to dodge, harder hitting.",
+   "rank": "A",
+   "def": "NF_BodyOfChakra"
   },
   {
    "label": "Hakke Kūshō: Eight Trigrams Empty Palm",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "017-hakke-k-sh-eight-trigrams-empty-palm.mp4",
-   "poster": "017-hakke-k-sh-eight-trigrams-empty-palm.jpg"
+   "poster": "017-hakke-k-sh-eight-trigrams-empty-palm.jpg",
+   "desc": "A palm strike of pure air that hits and throws back enemies in a line.",
+   "rank": "D",
+   "def": "NF_EmptyPalm"
   },
   {
    "label": "Jūken Tenketsu: Gentle Fist Chakra Points",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "018-j-ken-tenketsu-gentle-fist-chakra-points.mp4",
-   "poster": "018-j-ken-tenketsu-gentle-fist-chakra-points.jpg"
+   "poster": "018-j-ken-tenketsu-gentle-fist-chakra-points.jpg",
+   "desc": "Strike the tenketsu, sealing chakra points so the target moves and fights worse for two minutes. Needs the Byakugan active.",
+   "rank": "C",
+   "def": "NF_Tenketsu"
   },
   {
    "label": "Hakkeshō: Great Divination Whirl",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "019-hakkesh-great-divination-whirl.mp4",
-   "poster": "019-hakkesh-great-divination-whirl.jpg"
+   "poster": "019-hakkesh-great-divination-whirl.jpg",
+   "desc": "A larger Rotation that hits and hurls away everyone close by.",
+   "rank": "B",
+   "def": "NF_GreatWhirl"
   },
   {
    "label": "Hakke Hasangeki: Eight Trigrams Mountain Crusher",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "020-hakke-hasangeki-eight-trigrams-mountain-crusher.mp4",
-   "poster": "020-hakke-hasangeki-eight-trigrams-mountain-crusher.jpg"
+   "poster": "020-hakke-hasangeki-eight-trigrams-mountain-crusher.jpg",
+   "desc": "A massive palm blast of chakra that flattens everything in a wide arc.",
+   "rank": "B",
+   "def": "NF_MountainCrusher"
   },
   {
    "label": "Hakke: One Hundred Twenty-Eight Palms",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "021-hakke-one-hundred-twenty-eight-palms.mp4",
-   "poster": "021-hakke-one-hundred-twenty-eight-palms.jpg"
+   "poster": "021-hakke-one-hundred-twenty-eight-palms.jpg",
+   "desc": "A blinding chain of palm strikes on one enemy that seals their chakra network. Needs the Byakugan active.",
+   "rank": "A",
+   "def": "NF_128Palms"
   },
   {
    "label": "Shugohakke: Protection of the Sixty-Four Palms",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "022-shugohakke-protection-of-the-sixty-four-palms.mp4",
-   "poster": "022-shugohakke-protection-of-the-sixty-four-palms.jpg"
+   "poster": "022-shugohakke-protection-of-the-sixty-four-palms.jpg",
+   "desc": "For a minute, a sphere of chakra blades cuts anyone who comes close.",
+   "rank": "A",
+   "def": "NF_ProtectionPalms"
   },
   {
    "label": "Shinkan: Silence Gates",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "023-shinkan-silence-gates.mp4",
-   "poster": "023-shinkan-silence-gates.jpg"
+   "poster": "023-shinkan-silence-gates.jpg",
+   "desc": "Close the target's chakra gates one after another. Each rank seals deeper. Needs the Byakugan active.",
+   "rank": "B",
+   "def": "NF_Silence"
   },
   {
    "label": "Hakke Hazan Hōgeki: Crumbling Mountain Bombardment",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "024-hakke-hazan-h-geki-crumbling-mountain-bombardment.mp4",
-   "poster": "024-hakke-hazan-h-geki-crumbling-mountain-bombardment.jpg"
+   "poster": "024-hakke-hazan-h-geki-crumbling-mountain-bombardment.jpg",
+   "desc": "A rain of chakra palm blasts over an area for five seconds.",
+   "rank": "S",
+   "def": "NF_CrumblingMountain"
   },
   {
    "label": "Shugohakke: Protection of the White God",
    "tree": "Hyuuga arts",
    "group": "The gentle fist",
    "file": "025-shugohakke-protection-of-the-white-god.mp4",
-   "poster": "025-shugohakke-protection-of-the-white-god.jpg"
+   "poster": "025-shugohakke-protection-of-the-white-god.jpg",
+   "desc": "A towering chakra avatar guards the user for a minute and strikes everything nearby.",
+   "rank": "S",
+   "def": "NF_WhiteGod"
   },
   {
    "label": "Mushi Ryūki: Bug Projection",
    "tree": "Aburame arts",
    "group": "Insect swarms, lines and guards",
    "file": "026-mushi-ry-ki-bug-projection.mp4",
-   "poster": "026-mushi-ry-ki-bug-projection.jpg"
+   "poster": "026-mushi-ry-ki-bug-projection.jpg",
+   "desc": "Pour a line of kikaichū at the enemy. They bite and feed on chakra. The double line is wider and hungrier.",
+   "rank": "D",
+   "def": "NF_BugProjection"
   },
   {
    "label": "Mushitate: Bug Shield",
    "tree": "Aburame arts",
    "group": "Insect swarms, lines and guards",
    "file": "027-mushitate-bug-shield.mp4",
-   "poster": "027-mushitate-bug-shield.jpg"
+   "poster": "027-mushitate-bug-shield.jpg",
+   "desc": "A wall of kikaichū around the user catches incoming shots.",
+   "rank": "D",
+   "def": "NF_BugShield"
   },
   {
    "label": "Bug Grappling",
    "tree": "Aburame arts",
    "group": "Insect swarms, lines and guards",
    "file": "028-bug-grappling.mp4",
-   "poster": "028-bug-grappling.jpg"
+   "poster": "028-bug-grappling.jpg",
+   "desc": "Bugs swarm over one enemy's limbs and hold them. The extension reaches further and holds longer.",
+   "rank": "D",
+   "def": "NF_BugGrapple"
   },
   {
    "label": "Poison Reduction",
    "tree": "Aburame arts",
    "group": "Insect swarms, lines and guards",
    "file": "029-poison-reduction.mp4",
-   "poster": "029-poison-reduction.jpg"
+   "poster": "029-poison-reduction.jpg",
+   "desc": "The kikaichū filter the blood for a day: far better against toxins and disease.",
+   "rank": "D",
+   "def": "NF_Antitoxins"
   },
   {
    "label": "Yoroi no Mushi: Armour of Bugs",
    "tree": "Aburame arts",
    "group": "Insect swarms, lines and guards",
    "file": "030-yoroi-no-mushi-armour-of-bugs.mp4",
-   "poster": "030-yoroi-no-mushi-armour-of-bugs.jpg"
+   "poster": "030-yoroi-no-mushi-armour-of-bugs.jpg",
+   "desc": "Cover the body in bugs for half an hour: they soak blows and bite anyone adjacent.",
+   "rank": "C",
+   "def": "NF_BugArmor"
   },
   {
    "label": "Genwaku Mushiheki: Blinding Bug Burst",
    "tree": "Aburame arts",
    "group": "Insect swarms, lines and guards",
    "file": "031-genwaku-mushiheki-blinding-bug-burst.mp4",
-   "poster": "031-genwaku-mushiheki-blinding-bug-burst.jpg"
+   "poster": "031-genwaku-mushiheki-blinding-bug-burst.jpg",
+   "desc": "A burst of bugs over an area covers every enemy's eyes for half a minute.",
+   "rank": "C",
+   "def": "NF_BlindingBurst"
   },
   {
    "label": "Mushikabe: Bug Wall",
    "tree": "Aburame arts",
    "group": "Insect swarms, lines and guards",
    "file": "032-mushikabe-bug-wall.mp4",
-   "poster": "032-mushikabe-bug-wall.jpg"
+   "poster": "032-mushikabe-bug-wall.jpg",
+   "desc": "A large dome of bugs around a spot blocks enemy shots for twenty-five seconds or until broken.",
+   "rank": "C",
+   "def": "NF_BugWall"
   },
   {
    "label": "Mushi Ame: Bug Rain",
    "tree": "Aburame arts",
    "group": "Insect swarms, lines and guards",
    "file": "033-mushi-ame-bug-rain.mp4",
-   "poster": "033-mushi-ame-bug-rain.jpg"
+   "poster": "033-mushi-ame-bug-rain.jpg",
+   "desc": "Bugs pour down over an area, biting everything for five seconds.",
+   "rank": "C",
+   "def": "NF_BugRain"
   },
   {
    "label": "Mushi Kōchisho: Bug Prison",
    "tree": "Aburame arts",
    "group": "The great swarms",
    "file": "034-mushi-k-chisho-bug-prison.mp4",
-   "poster": "034-mushi-k-chisho-bug-prison.jpg"
+   "poster": "034-mushi-k-chisho-bug-prison.jpg",
+   "desc": "Seal one enemy in a ball of bugs: held, bitten and drained.",
+   "rank": "C",
+   "def": "NF_BugPrison"
   },
   {
    "label": "Hitoshirezu Mushiryūdan: Hidden Bug Dragon",
    "tree": "Aburame arts",
    "group": "The great swarms",
    "file": "035-hitoshirezu-mushiry-dan-hidden-bug-dragon.mp4",
-   "poster": "035-hitoshirezu-mushiry-dan-hidden-bug-dragon.jpg"
+   "poster": "035-hitoshirezu-mushiry-dan-hidden-bug-dragon.jpg",
+   "desc": "A dragon-shaped mass of bugs slams into the target area. Larger with each rank.",
+   "rank": "B",
+   "def": "NF_BugDragon"
   },
   {
    "label": "Mushi Kiri: Bug Mist",
    "tree": "Aburame arts",
    "group": "The great swarms",
    "file": "036-mushi-kiri-bug-mist.mp4",
-   "poster": "036-mushi-kiri-bug-mist.jpg"
+   "poster": "036-mushi-kiri-bug-mist.jpg",
+   "desc": "Surround the user with a haze of insects for a minute that bites anyone close.",
+   "rank": "B",
+   "def": "NF_BugMist"
   },
   {
    "label": "Mushi Kachū: Bug Vortex",
    "tree": "Aburame arts",
    "group": "The great swarms",
    "file": "037-mushi-kach-bug-vortex.mp4",
-   "poster": "037-mushi-kach-bug-vortex.jpg"
+   "poster": "037-mushi-kach-bug-vortex.jpg",
+   "desc": "A spinning column of bugs traps every enemy in an area and drains them.",
+   "rank": "A",
+   "def": "NF_BugVortex"
   },
   {
    "label": "Yūen Mushinami: Grand Bug Wave",
    "tree": "Aburame arts",
    "group": "The great swarms",
    "file": "038-y-en-mushinami-grand-bug-wave.mp4",
-   "poster": "038-y-en-mushinami-grand-bug-wave.jpg"
+   "poster": "038-y-en-mushinami-grand-bug-wave.jpg",
+   "desc": "A wave of countless insects floods a wide arc.",
+   "rank": "A",
+   "def": "NF_GrandBugWave"
   },
   {
    "label": "Mishu Arano: Bug Wasteland",
    "tree": "Aburame arts",
    "group": "The great swarms",
    "file": "039-mishu-arano-bug-wasteland.mp4",
-   "poster": "039-mishu-arano-bug-wasteland.jpg"
+   "poster": "039-mishu-arano-bug-wasteland.jpg",
+   "desc": "The ground becomes a seething field of bugs for ten seconds.",
+   "rank": "S",
+   "def": "NF_BugWasteland"
   },
   {
    "label": "Canine Bond",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "040-canine-bond.mp4",
-   "poster": "040-canine-bond.jpg"
+   "poster": "040-canine-bond.jpg",
+   "desc": "Bond with a tamed dog (or any other canine your colony owns). The dog becomes this ninja's partner and fights with the clan techniques.",
+   "rank": "C",
+   "def": "NF_CanineBond"
   },
   {
    "label": "Keen Senses",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "041-keen-senses.mp4",
-   "poster": "041-keen-senses.jpg"
+   "poster": "041-keen-senses.jpg",
+   "desc": "While on: sharper hearing and sight, harder to catch off guard.",
+   "rank": "C",
+   "def": "NF_KeenSenses"
   },
   {
    "label": "Four Legs Technique",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "042-four-legs-technique.mp4",
-   "poster": "042-four-legs-technique.jpg"
+   "poster": "042-four-legs-technique.jpg",
+   "desc": "Drop into a beast stance: faster, harder to hit and better at landing blows for about an hour.",
+   "rank": "C",
+   "def": "NF_FourLegs"
   },
   {
    "label": "Piercing Fang",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "043-piercing-fang.mp4",
-   "poster": "043-piercing-fang.jpg"
+   "poster": "043-piercing-fang.jpg",
+   "desc": "Spin like a drill along a line, tearing into everyone in the way. From Double Piercing Fang on, a bonded dog spins alongside and everyone in the way is hit once more for each.",
+   "rank": "C",
+   "def": "NF_PiercingFang"
   },
   {
    "label": "Pack Tactics",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "044-pack-tactics.mp4",
-   "poster": "044-pack-tactics.jpg"
+   "poster": "044-pack-tactics.jpg",
+   "desc": "The user and every bonded dog on the map fight as a pack for about an hour.",
+   "rank": "B",
+   "def": "NF_PackTactics"
   },
   {
    "label": "Hound of the Baskervilles",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "045-hound-of-the-baskervilles.mp4",
-   "poster": "045-hound-of-the-baskervilles.jpg"
+   "poster": "045-hound-of-the-baskervilles.jpg",
+   "desc": "Drive every bonded dog on the map into a rage: harder bites, half the pain, for about half an hour.",
+   "rank": "C",
+   "def": "NF_HoundRage"
   },
   {
    "label": "Fearful Howl",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "046-fearful-howl.mp4",
-   "poster": "046-fearful-howl.jpg"
+   "poster": "046-fearful-howl.jpg",
+   "desc": "A bloodcurdling howl: enemies within eight cells flinch and are shaken (worse aim, slower) for half a minute.",
+   "rank": "B",
+   "def": "NF_FearfulHowl"
   },
   {
    "label": "Paralysis Bite",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "047-paralysis-bite.mp4",
-   "poster": "047-paralysis-bite.jpg"
+   "poster": "047-paralysis-bite.jpg",
+   "desc": "A savage bite that locks the target's muscles for two seconds.",
+   "rank": "B",
+   "def": "NF_ParalysisBite"
   },
   {
    "label": "Veterinarian",
    "tree": "Inuzuka clan",
    "group": "Hounds and partners",
    "file": "048-veterinarian.mp4",
-   "poster": "048-veterinarian.jpg"
+   "poster": "048-veterinarian.jpg",
+   "desc": "Bring a dog back to life, if it died within the last day.",
+   "rank": "B",
+   "def": "NF_Veterinarian"
   },
   {
    "label": "Bone Armour",
    "tree": "Kaguya clan",
    "group": "Bone armour, dances and bullets",
    "file": "049-bone-armour.mp4",
-   "poster": "049-bone-armour.jpg"
+   "poster": "049-bone-armour.jpg",
+   "desc": "While on, the user's bones harden into armour under the skin. Four stages: Stone, Iron, Exoskeleton of Undeath and Adamantine Bones.",
+   "rank": "C",
+   "def": "NF_BoneArmor"
   },
   {
    "label": "Dance of the Larch",
    "tree": "Kaguya clan",
    "group": "Bone armour, dances and bullets",
    "file": "050-dance-of-the-larch.mp4",
-   "poster": "050-dance-of-the-larch.jpg"
+   "poster": "050-dance-of-the-larch.jpg",
+   "desc": "Push bone spurs out of the body for half an hour: harder melee, and enemies standing next to the user are cut every second.",
+   "rank": "D",
+   "def": "NF_DanceLarch"
   },
   {
    "label": "Dance of the Clematis",
    "tree": "Kaguya clan",
    "group": "Bone armour, dances and bullets",
    "file": "051-dance-of-the-clematis.mp4",
-   "poster": "051-dance-of-the-clematis.jpg"
+   "poster": "051-dance-of-the-clematis.jpg",
+   "desc": "Draw a huge weapon from the spine for a minute of devastating melee.",
+   "rank": "S",
+   "def": "NF_DanceClematis"
   },
   {
    "label": "Deathless",
    "tree": "Kaguya clan",
    "group": "Bone armour, dances and bullets",
    "file": "052-deathless.mp4",
-   "poster": "052-deathless.jpg"
+   "poster": "052-deathless.jpg",
+   "desc": "While on, the user's wounds close quickly. Drains chakra fast.",
+   "rank": "A",
+   "def": "NF_Deathless"
   },
   {
    "label": "Ten Finger Bullets",
    "tree": "Kaguya clan",
    "group": "Bone armour, dances and bullets",
    "file": "053-ten-finger-bullets.mp4",
-   "poster": "053-ten-finger-bullets.jpg"
+   "poster": "053-ten-finger-bullets.jpg",
+   "desc": "Fire the bones of the fingertips like bullets: five at a time. Burrowing Bony Digits dig in deeper.",
+   "rank": "C",
+   "def": "NF_FingerBullets"
   },
   {
    "label": "Bone Shards",
    "tree": "Kaguya clan",
    "group": "Bone armour, dances and bullets",
    "file": "054-bone-shards.mp4",
-   "poster": "054-bone-shards.jpg"
+   "poster": "054-bone-shards.jpg",
+   "desc": "A spray of sharp bone in a cone. Greater Bone Shards reach further and cut deeper.",
+   "rank": "C",
+   "def": "NF_BoneShards"
   },
   {
    "label": "Bone's Vengeful Grasp",
    "tree": "Kaguya clan",
    "group": "Bone binds and the shadow's reach",
    "file": "055-bone-s-vengeful-grasp.mp4",
-   "poster": "055-bone-s-vengeful-grasp.jpg"
+   "poster": "055-bone-s-vengeful-grasp.jpg",
+   "desc": "Small bony hands burst from the ground and grab every enemy in a small area: a moment stuck, then slowed for ten seconds.",
+   "rank": "D",
+   "def": "NF_VengefulGrasp"
   },
   {
    "label": "Stillbone",
    "tree": "Kaguya clan",
    "group": "Bone binds and the shadow's reach",
    "file": "056-stillbone.mp4",
-   "poster": "056-stillbone.jpg"
+   "poster": "056-stillbone.jpg",
+   "desc": "Lock a target's bones in place: they can't move for six seconds.",
+   "rank": "B",
+   "def": "NF_Stillbone"
   },
   {
    "label": "Bone Cage",
    "tree": "Kaguya clan",
    "group": "Bone binds and the shadow's reach",
    "file": "057-bone-cage.mp4",
-   "poster": "057-bone-cage.jpg"
+   "poster": "057-bone-cage.jpg",
+   "desc": "An interlocking cage of bone traps every enemy in an area for ten seconds.",
+   "rank": "A",
+   "def": "NF_BoneCage"
   },
   {
    "label": "Osteophage",
    "tree": "Kaguya clan",
    "group": "Bone binds and the shadow's reach",
    "file": "058-osteophage.mp4",
-   "poster": "058-osteophage.jpg"
+   "poster": "058-osteophage.jpg",
+   "desc": "Shatter the bones inside a nearby target.",
+   "rank": "A",
+   "def": "NF_Osteophage"
   },
   {
    "label": "Dance of the Seedling Ferns",
    "tree": "Kaguya clan",
    "group": "Bone binds and the shadow's reach",
    "file": "059-dance-of-the-seedling-ferns.mp4",
-   "poster": "059-dance-of-the-seedling-ferns.jpg"
+   "poster": "059-dance-of-the-seedling-ferns.jpg",
+   "desc": "A forest of bone spikes erupts over a wide area and keeps stabbing for five seconds.",
+   "rank": "S",
+   "def": "NF_SeedlingFerns"
   },
   {
    "label": "Kagemane no Jutsu: Shadow Imitation",
    "tree": "Nara clan",
    "group": "Bone binds and the shadow's reach",
    "file": "060-kagemane-no-jutsu-shadow-imitation.mp4",
-   "poster": "060-kagemane-no-jutsu-shadow-imitation.jpg"
+   "poster": "060-kagemane-no-jutsu-shadow-imitation.jpg",
+   "desc": "Stretch the user's shadow along the ground to the target and lock them in place. Higher ranks reach further and hold longer.",
+   "rank": "C",
+   "def": "NF_ShadowImitation"
   },
   {
    "label": "Shadow Strike",
    "tree": "Nara clan",
    "group": "Bone binds and the shadow's reach",
    "file": "061-shadow-strike.mp4",
-   "poster": "061-shadow-strike.jpg"
+   "poster": "061-shadow-strike.jpg",
+   "desc": "The user's shadow punches the target's shadow, and the blow lands on the body.",
+   "rank": "D",
+   "def": "NF_ShadowStrike"
   },
   {
    "label": "Kage Kubi Shibari: Shadow Neck Bind",
    "tree": "Nara clan",
    "group": "Shadow binds, blades and dome",
    "file": "062-kage-kubi-shibari-shadow-neck-bind.mp4",
-   "poster": "062-kage-kubi-shibari-shadow-neck-bind.jpg"
+   "poster": "062-kage-kubi-shibari-shadow-neck-bind.jpg",
+   "desc": "Hold the target with a shadow and choke them: they cannot move, struggle to breathe and take damage every second.",
+   "rank": "C",
+   "def": "NF_ShadowNeckBind"
   },
   {
    "label": "Shadow Entrapment",
    "tree": "Nara clan",
    "group": "Shadow binds, blades and dome",
    "file": "063-shadow-entrapment.mp4",
-   "poster": "063-shadow-entrapment.jpg"
+   "poster": "063-shadow-entrapment.jpg",
+   "desc": "Shadow tendrils wrap one target completely and hold them for fifteen seconds.",
+   "rank": "A",
+   "def": "NF_ShadowEntrapment"
   },
   {
    "label": "Shadow Blast",
    "tree": "Nara clan",
    "group": "Shadow binds, blades and dome",
    "file": "064-shadow-blast.mp4",
-   "poster": "064-shadow-blast.jpg"
+   "poster": "064-shadow-blast.jpg",
+   "desc": "Fire a sharpened beam of shadow: a kunai at C rank, a spear at B rank.",
+   "rank": "C",
+   "def": "NF_ShadowBlast"
   },
   {
    "label": "Shadow Envelop",
    "tree": "Nara clan",
    "group": "Shadow binds, blades and dome",
    "file": "065-shadow-envelop.mp4",
-   "poster": "065-shadow-envelop.jpg"
+   "poster": "065-shadow-envelop.jpg",
+   "desc": "Wrap the user in shadows that soften blows and blades for half an hour.",
+   "rank": "C",
+   "def": "NF_ShadowEnvelop"
   },
   {
    "label": "Kage Nui: Shadow Sewing",
    "tree": "Nara clan",
    "group": "Shadow binds, blades and dome",
    "file": "066-kage-nui-shadow-sewing.mp4",
-   "poster": "066-kage-nui-shadow-sewing.jpg"
+   "poster": "066-kage-nui-shadow-sewing.jpg",
+   "desc": "Shadow threads stab and pin up to six enemies in an area.",
+   "rank": "A",
+   "def": "NF_ShadowSewing"
   },
   {
    "label": "Shadow Dome",
    "tree": "Nara clan",
    "group": "Shadow binds, blades and dome",
    "file": "067-shadow-dome.mp4",
-   "poster": "067-shadow-dome.jpg"
+   "poster": "067-shadow-dome.jpg",
+   "desc": "Raise a dome of shadow on a spot: enemy shots can't get in for twenty seconds.",
+   "rank": "A",
+   "def": "NF_ShadowDome"
   },
   {
    "label": "Shadow Endgame",
    "tree": "Nara clan",
    "group": "Shadow binds, blades and dome",
    "file": "068-shadow-endgame.mp4",
-   "poster": "068-shadow-endgame.jpg"
+   "poster": "068-shadow-endgame.jpg",
+   "desc": "Every enemy in a wide area is caught by razor-sharp shadows: held still and cut apart.",
+   "rank": "S",
+   "def": "NF_ShadowEndgame"
   },
   {
    "label": "Bubun Baika: Partial Expansion",
    "tree": "Akimichi clan",
    "group": "Swelling bodies and heavy blows",
    "file": "069-bubun-baika-partial-expansion.mp4",
-   "poster": "069-bubun-baika-partial-expansion.jpg"
+   "poster": "069-bubun-baika-partial-expansion.jpg",
+   "desc": "Swell one arm to giant size and swing it at a nearby enemy.",
+   "rank": "D",
+   "def": "NF_PartialExpansion"
   },
   {
    "label": "Baika no Jutsu: Expansion",
    "tree": "Akimichi clan",
    "group": "Swelling bodies and heavy blows",
    "file": "070-baika-no-jutsu-expansion.mp4",
-   "poster": "070-baika-no-jutsu-expansion.jpg"
+   "poster": "070-baika-no-jutsu-expansion.jpg",
+   "desc": "Grow to giant size: stronger, tougher, slower. Each rank grows larger.",
+   "rank": "C",
+   "def": "NF_Expansion"
   },
   {
    "label": "Nikudan Sensha: Human Bullet Tank",
    "tree": "Akimichi clan",
    "group": "Swelling bodies and heavy blows",
    "file": "071-nikudan-sensha-human-bullet-tank.mp4",
-   "poster": "071-nikudan-sensha-human-bullet-tank.jpg"
+   "poster": "071-nikudan-sensha-human-bullet-tank.jpg",
+   "desc": "Roll into a giant ball and flatten everyone in a line. The spiked version also stabs.",
+   "rank": "C",
+   "def": "NF_HumanBulletTank"
   },
   {
    "label": "Calorie Control",
    "tree": "Akimichi clan",
    "group": "Swelling bodies and heavy blows",
    "file": "072-calorie-control.mp4",
-   "poster": "072-calorie-control.jpg"
+   "poster": "072-calorie-control.jpg",
+   "desc": "Burn stored calories into chakra and toughness for an hour.",
+   "rank": "C",
+   "def": "NF_CalorieControl"
   },
   {
    "label": "Ironguts",
    "tree": "Akimichi clan",
    "group": "Swelling bodies and heavy blows",
    "file": "073-ironguts.mp4",
-   "poster": "073-ironguts.jpg"
+   "poster": "073-ironguts.jpg",
+   "desc": "Harden the body for a day against toxins, rot and disease.",
+   "rank": "C",
+   "def": "NF_Ironguts"
   },
   {
    "label": "Chōbaika: Mega Palm Thrust",
    "tree": "Akimichi clan",
    "group": "Swelling bodies and heavy blows",
    "file": "074-ch-baika-mega-palm-thrust.mp4",
-   "poster": "074-ch-baika-mega-palm-thrust.jpg"
+   "poster": "074-ch-baika-mega-palm-thrust.jpg",
+   "desc": "Expand both hands and slam them down on an area.",
+   "rank": "B",
+   "def": "NF_MegaPalm"
   },
   {
    "label": "Chō Mode: Butterfly Mode",
    "tree": "Akimichi clan",
    "group": "Swelling bodies and heavy blows",
    "file": "075-ch-mode-butterfly-mode.mp4",
-   "poster": "075-ch-mode-butterfly-mode.jpg"
+   "poster": "075-ch-mode-butterfly-mode.jpg",
+   "desc": "Burn fat into a vast surge of chakra: wings of light and enormous strength for one minute.",
+   "rank": "A",
+   "def": "NF_ButterflyMode"
   },
   {
    "label": "Impact Wave",
    "tree": "Akimichi clan",
    "group": "Swelling bodies and heavy blows",
    "file": "076-impact-wave.mp4",
-   "poster": "076-impact-wave.jpg"
+   "poster": "076-impact-wave.jpg",
+   "desc": "A giant fist strike that sends a shockwave rolling across the battlefield.",
+   "rank": "S",
+   "def": "NF_ImpactWave"
   },
   {
    "label": "Mind Pulse",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "077-mind-pulse.mp4",
-   "poster": "077-mind-pulse.jpg"
+   "poster": "077-mind-pulse.jpg",
+   "desc": "A pulse of mental chakra dazes every enemy in a small area.",
+   "rank": "C",
+   "def": "NF_MindPulse"
   },
   {
    "label": "Confusion",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "078-confusion.mp4",
-   "poster": "078-confusion.jpg"
+   "poster": "078-confusion.jpg",
+   "desc": "Scramble one enemy's thoughts: they wander off in a daze.",
+   "rank": "C",
+   "def": "NF_Confusion"
   },
   {
    "label": "Mind Imprisonment",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "079-mind-imprisonment.mp4",
-   "poster": "079-mind-imprisonment.jpg"
+   "poster": "079-mind-imprisonment.jpg",
+   "desc": "Lock an enemy inside their own mind: they freeze where they stand.",
+   "rank": "C",
+   "def": "NF_MindImprisonment"
   },
   {
    "label": "Broken Mind",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "080-broken-mind.mp4",
-   "poster": "080-broken-mind.jpg"
+   "poster": "080-broken-mind.jpg",
+   "desc": "Shatter an enemy's focus for two minutes.",
+   "rank": "C",
+   "def": "NF_BrokenMind"
   },
   {
    "label": "Shinranshin no Jutsu: Mind Body Disturbance",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "081-shinranshin-no-jutsu-mind-body-disturbance.mp4",
-   "poster": "081-shinranshin-no-jutsu-mind-body-disturbance.jpg"
+   "poster": "081-shinranshin-no-jutsu-mind-body-disturbance.jpg",
+   "desc": "Seize control of an enemy's body and turn them on their own side.",
+   "rank": "B",
+   "def": "NF_MindDisturbance"
   },
   {
    "label": "Shintenshin no Jutsu: Mind Body Switch",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "082-shintenshin-no-jutsu-mind-body-switch.mp4",
-   "poster": "082-shintenshin-no-jutsu-mind-body-switch.jpg"
+   "poster": "082-shintenshin-no-jutsu-mind-body-switch.jpg",
+   "desc": "Send your mind into an enemy's body and fight with it for half a minute. Your own body falls limp meanwhile, so keep it guarded. If the borrowed body falls while you are in it, your mind comes back badly shaken.",
+   "rank": "A",
+   "def": "NF_MindTransfer"
   },
   {
    "label": "Kontanribon no Jutsu: Mind Ribbon",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "083-kontanribon-no-jutsu-mind-ribbon.mp4",
-   "poster": "083-kontanribon-no-jutsu-mind-ribbon.jpg"
+   "poster": "083-kontanribon-no-jutsu-mind-ribbon.jpg",
+   "desc": "Ribbons of mind chakra bind up to three enemies in an area.",
+   "rank": "C",
+   "def": "NF_MindRibbon"
   },
   {
    "label": "Omoitobikomi no Jutsu: Mind Dive",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "084-omoitobikomi-no-jutsu-mind-dive.mp4",
-   "poster": "084-omoitobikomi-no-jutsu-mind-dive.jpg"
+   "poster": "084-omoitobikomi-no-jutsu-mind-dive.jpg",
+   "desc": "Plunge into an enemy's mind and tear through it: heavy damage to thought itself.",
+   "rank": "A",
+   "def": "NF_MindDive"
   },
   {
    "label": "Omoi Dōran Odori: Mind Disturbance Dance",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "085-omoi-d-ran-odori-mind-disturbance-dance.mp4",
-   "poster": "085-omoi-d-ran-odori-mind-disturbance-dance.jpg"
+   "poster": "085-omoi-d-ran-odori-mind-disturbance-dance.jpg",
+   "desc": "Throw every enemy in an area into confusion: they wander off, dazed.",
+   "rank": "A",
+   "def": "NF_DisturbanceDance"
   },
   {
    "label": "Dancing Minds",
    "tree": "Yamanaka clan",
    "group": "Threads of the mind",
    "file": "086-dancing-minds.mp4",
-   "poster": "086-dancing-minds.jpg"
+   "poster": "086-dancing-minds.jpg",
+   "desc": "Seize the minds of every enemy in a wide area and set them against each other.",
+   "rank": "S",
+   "def": "NF_DancingMinds"
   },
   {
    "label": "Samehada: Shark Skin",
    "tree": "Hoshigaki clan",
    "group": "Sharks and deep water",
    "file": "087-samehada-shark-skin.mp4",
-   "poster": "087-samehada-shark-skin.jpg"
+   "poster": "087-samehada-shark-skin.jpg",
+   "desc": "Toughen the skin into rasping shark hide for an hour: tougher, and every blow bites deeper.",
+   "rank": "C",
+   "def": "NF_SharkSkin"
   },
   {
    "label": "Suikōdan: Water Shark Bullet",
    "tree": "Hoshigaki clan",
    "group": "Sharks and deep water",
    "file": "088-suik-dan-water-shark-bullet.mp4",
-   "poster": "088-suik-dan-water-shark-bullet.jpg"
+   "poster": "088-suik-dan-water-shark-bullet.jpg",
+   "desc": "Fire a shark of water that bursts on impact. Hammerhead Missile and Great White Shark are bigger.",
+   "rank": "C",
+   "def": "NF_WaterShark"
   },
   {
    "label": "Suiton: Bakurai: Depth Charge",
    "tree": "Hoshigaki clan",
    "group": "Sharks and deep water",
    "file": "089-suiton-bakurai-depth-charge.mp4",
-   "poster": "089-suiton-bakurai-depth-charge.jpg"
+   "poster": "089-suiton-bakurai-depth-charge.jpg",
+   "desc": "Hurl a heavy charge of water that bursts over a small area.",
+   "rank": "C",
+   "def": "NF_DepthCharge"
   },
   {
    "label": "Samekabe: Shark Wall",
    "tree": "Hoshigaki clan",
    "group": "Sharks and deep water",
    "file": "090-samekabe-shark-wall.mp4",
-   "poster": "090-samekabe-shark-wall.jpg"
+   "poster": "090-samekabe-shark-wall.jpg",
+   "desc": "A circling wall of water sharks around a spot blocks enemy shots for twenty seconds.",
+   "rank": "C",
+   "def": "NF_SharkWall"
   },
   {
    "label": "Chi Kaori: Blood Scent",
    "tree": "Hoshigaki clan",
    "group": "Sharks and deep water",
    "file": "091-chi-kaori-blood-scent.mp4",
-   "poster": "091-chi-kaori-blood-scent.jpg"
+   "poster": "091-chi-kaori-blood-scent.jpg",
+   "desc": "Smell blood in the water: lock onto a wounded foe and bite hard.",
+   "rank": "C",
+   "def": "NF_BloodScent"
   },
   {
    "label": "Suiton: Satsugai Naiō: Killing Depths",
    "tree": "Hoshigaki clan",
    "group": "Sharks and deep water",
    "file": "092-suiton-satsugai-nai-killing-depths.mp4",
-   "poster": "092-suiton-satsugai-nai-killing-depths.jpg"
+   "poster": "092-suiton-satsugai-nai-killing-depths.jpg",
+   "desc": "Flood an area with crushing deep water for six seconds.",
+   "rank": "A",
+   "def": "NF_KillingDepths"
   },
   {
    "label": "Same Kyōran: Shark Frenzy",
    "tree": "Hoshigaki clan",
    "group": "Sharks and deep water",
    "file": "093-same-ky-ran-shark-frenzy.mp4",
-   "poster": "093-same-ky-ran-shark-frenzy.jpg"
+   "poster": "093-same-ky-ran-shark-frenzy.jpg",
+   "desc": "Give in to the shark. One minute of savage strength, speed and bloodthirst.",
+   "rank": "S",
+   "def": "NF_SharkFrenzy"
   },
   {
    "label": "Doken Tsuiseki (Earthen Tracking Hounds)",
    "tree": "ANBU division arts",
    "group": "ANBU tracking, lightning and silence",
    "file": "094-doken-tsuiseki-earthen-tracking-hounds.mp4",
-   "poster": "094-doken-tsuiseki-earthen-tracking-hounds.jpg"
+   "poster": "094-doken-tsuiseki-earthen-tracking-hounds.jpg",
+   "desc": "Tracking hounds burst from the ground and pin the target, which stays marked and slowed for a while. Needs the ANBU falcon mask worn.",
+   "rank": "B",
+   "def": "NF_Anbu_Hounds"
   },
   {
    "label": "Chiato (Blood Trail)",
    "tree": "ANBU division arts",
    "group": "ANBU tracking, lightning and silence",
    "file": "095-chiato-blood-trail.mp4",
-   "poster": "095-chiato-blood-trail.jpg"
+   "poster": "095-chiato-blood-trail.jpg",
+   "desc": "Mark an enemy with its own blood: it is slowed and easy to follow for a long time. Needs the ANBU falcon mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_BloodTrail"
   },
   {
    "label": "Kowadori (Voice Capture)",
    "tree": "ANBU division arts",
    "group": "ANBU tracking, lightning and silence",
    "file": "096-kowadori-voice-capture.mp4",
-   "poster": "096-kowadori-voice-capture.jpg"
+   "poster": "096-kowadori-voice-capture.jpg",
+   "desc": "Steal the target's voice: it can't speak or call out for a while. Needs the ANBU falcon or owl or wolf mask worn.",
+   "rank": "C",
+   "def": "NF_Anbu_VoiceCapture"
   },
   {
    "label": "Raihō (Thunder Cannon)",
    "tree": "ANBU division arts",
    "group": "ANBU tracking, lightning and silence",
    "file": "097-raih-thunder-cannon.mp4",
-   "poster": "097-raih-thunder-cannon.jpg"
+   "poster": "097-raih-thunder-cannon.jpg",
+   "desc": "A straight line of lightning bursts from the palm. Hits anyone in the line, allies too. Needs the ANBU falcon mask worn.",
+   "rank": "B",
+   "def": "NF_Anbu_ThunderCannon"
   },
   {
    "label": "Rairō (Lightning Cage)",
    "tree": "ANBU division arts",
    "group": "ANBU tracking, lightning and silence",
    "file": "098-rair-lightning-cage.mp4",
-   "poster": "098-rair-lightning-cage.jpg"
+   "poster": "098-rair-lightning-cage.jpg",
+   "desc": "Six pillars of lightning lock around the target. It can't move or fight for several seconds and is numb after. Needs the ANBU falcon mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_LightningCage"
   },
   {
    "label": "Seihaku Rai (Pale Bolt)",
    "tree": "ANBU division arts",
    "group": "ANBU tracking, lightning and silence",
    "file": "099-seihaku-rai-pale-bolt.mp4",
-   "poster": "099-seihaku-rai-pale-bolt.jpg"
+   "poster": "099-seihaku-rai-pale-bolt.jpg",
+   "desc": "A single, lightning-fast bolt from the fingertip that pierces armour. Needs the ANBU falcon or cat mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_PaleBolt"
   },
   {
    "label": "Seijaku no Maru (Silence Dome)",
    "tree": "ANBU division arts",
    "group": "ANBU tracking, lightning and silence",
    "file": "100-seijaku-no-maru-silence-dome.mp4",
-   "poster": "100-seijaku-no-maru-silence-dome.jpg"
+   "poster": "100-seijaku-no-maru-silence-dome.jpg",
+   "desc": "A dome where no sound escapes: enemies inside are silenced. Needs the ANBU falcon or cat mask worn.",
+   "rank": "B",
+   "def": "NF_Anbu_SilenceDome"
   },
   {
    "label": "Otomaku (Sound Veil)",
    "tree": "ANBU division arts",
    "group": "ANBU tracking, lightning and silence",
    "file": "101-otomaku-sound-veil.mp4",
-   "poster": "101-otomaku-sound-veil.jpg"
+   "poster": "101-otomaku-sound-veil.jpg",
+   "desc": "A genjutsu hides every sound the user makes: harder to pin down, quicker on the feet. Needs the ANBU owl or cat mask worn.",
+   "rank": "C",
+   "def": "NF_Anbu_SoundVeil"
   },
   {
    "label": "Kodama Obiki (Echo Lure)",
    "tree": "ANBU division arts",
    "group": "ANBU echoes, earth, barriers and stealth",
    "file": "102-kodama-obiki-echo-lure.mp4",
-   "poster": "102-kodama-obiki-echo-lure.jpg"
+   "poster": "102-kodama-obiki-echo-lure.jpg",
+   "desc": "Replay a recorded voice from somewhere else: enemies around the spot are confused for a while. Needs the ANBU owl mask worn.",
+   "rank": "C",
+   "def": "NF_Anbu_EchoLure"
   },
   {
    "label": "Jishinken (Earthquake Fist)",
    "tree": "ANBU division arts",
    "group": "ANBU echoes, earth, barriers and stealth",
    "file": "103-jishinken-earthquake-fist.mp4",
-   "poster": "103-jishinken-earthquake-fist.jpg"
+   "poster": "103-jishinken-earthquake-fist.jpg",
+   "desc": "A chakra-loaded punch into the ground. The earth heaves around the user, hitting everyone nearby, allies too. Needs the ANBU bear mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_Quake"
   },
   {
    "label": "Kijishaku Wana (Chakra Magnet Trap)",
    "tree": "ANBU division arts",
    "group": "ANBU echoes, earth, barriers and stealth",
    "file": "104-kijishaku-wana-chakra-magnet-trap.mp4",
-   "poster": "104-kijishaku-wana-chakra-magnet-trap.jpg"
+   "poster": "104-kijishaku-wana-chakra-magnet-trap.jpg",
+   "desc": "A patch of sticky chakra on the ground: enemies who touch it can barely move. Needs the ANBU bear mask worn.",
+   "rank": "C",
+   "def": "NF_Anbu_MagnetTrap"
   },
   {
    "label": "Kitoride (Chakra Bulwark)",
    "tree": "ANBU division arts",
    "group": "ANBU echoes, earth, barriers and stealth",
    "file": "105-kitoride-chakra-bulwark.mp4",
-   "poster": "105-kitoride-chakra-bulwark.jpg"
+   "poster": "105-kitoride-chakra-bulwark.jpg",
+   "desc": "A barrier of pure chakra in front of the user: damage taken is cut sharply for a short time. Needs the ANBU bear or frog mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_Bulwark"
   },
   {
    "label": "Sōheki (Twin Barrier)",
    "tree": "ANBU division arts",
    "group": "ANBU echoes, earth, barriers and stealth",
    "file": "106-s-heki-twin-barrier.mp4",
-   "poster": "106-s-heki-twin-barrier.jpg"
+   "poster": "106-s-heki-twin-barrier.jpg",
+   "desc": "Two linked barriers shield every ally near the user from much of the damage they take. Needs the ANBU bear mask worn.",
+   "rank": "S",
+   "def": "NF_Anbu_TwinBarrier"
   },
   {
    "label": "Kakure Ashi (Unseen Step)",
    "tree": "ANBU division arts",
    "group": "ANBU echoes, earth, barriers and stealth",
    "file": "107-kakure-ashi-unseen-step.mp4",
-   "poster": "107-kakure-ashi-unseen-step.jpg"
+   "poster": "107-kakure-ashi-unseen-step.jpg",
+   "desc": "The user moves unseen and unheard for a short time. Needs the ANBU cat mask worn.",
+   "rank": "B",
+   "def": "NF_Anbu_UnseenStep"
   },
   {
    "label": "Senbon Sōsa (Senbon Control)",
    "tree": "ANBU division arts",
    "group": "ANBU echoes, earth, barriers and stealth",
    "file": "108-senbon-s-sa-senbon-control.mp4",
-   "poster": "108-senbon-s-sa-senbon-control.jpg"
+   "poster": "108-senbon-s-sa-senbon-control.jpg",
+   "desc": "A chakra-guided needle flies with deadly precision. Needs the ANBU cat mask worn.",
+   "rank": "C",
+   "def": "NF_Anbu_Senbon"
   },
   {
    "label": "Wana Kakushi (Trap Concealment)",
    "tree": "ANBU division arts",
    "group": "ANBU echoes, earth, barriers and stealth",
    "file": "109-wana-kakushi-trap-concealment.mp4",
-   "poster": "109-wana-kakushi-trap-concealment.jpg"
+   "poster": "109-wana-kakushi-trap-concealment.jpg",
+   "desc": "Lay a hidden spread of caltrops on a spot. Needs the ANBU cat mask worn.",
+   "rank": "D",
+   "def": "NF_Anbu_TrapConceal"
   },
   {
    "label": "Yakusō no Chie (Herbal Lore)",
    "tree": "ANBU division arts",
    "group": "ANBU field medicine and assassin's arts",
    "file": "110-yakus-no-chie-herbal-lore.mp4",
-   "poster": "110-yakus-no-chie-herbal-lore.jpg"
+   "poster": "110-yakus-no-chie-herbal-lore.jpg",
+   "desc": "ANBU field medicine: for a day the user tends wounds better and faster. Needs the ANBU frog mask worn.",
+   "rank": "B",
+   "def": "NF_Anbu_HerbalLore"
   },
   {
    "label": "Iyashi no Ki (Healing Aura)",
    "tree": "ANBU division arts",
    "group": "ANBU field medicine and assassin's arts",
    "file": "111-iyashi-no-ki-healing-aura.mp4",
-   "poster": "111-iyashi-no-ki-healing-aura.jpg"
+   "poster": "111-iyashi-no-ki-healing-aura.jpg",
+   "desc": "C/A-rank. An aura that slowly closes the target's wounds. C heals light wounds, A heals deep ones. Needs the ANBU frog mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_HealAura"
   },
   {
    "label": "Mamori no Ki (Protection Aura)",
    "tree": "ANBU division arts",
    "group": "ANBU field medicine and assassin's arts",
    "file": "112-mamori-no-ki-protection-aura.mp4",
-   "poster": "112-mamori-no-ki-protection-aura.jpg"
+   "poster": "112-mamori-no-ki-protection-aura.jpg",
+   "desc": "C/A-rank. An aura that turns blows aside. C softens them, A deflects even blades. Needs the ANBU frog mask worn.",
+   "rank": "C",
+   "def": "NF_Anbu_ProtectAura"
   },
   {
    "label": "Dokuyoke (Poison Ward)",
    "tree": "ANBU division arts",
    "group": "ANBU field medicine and assassin's arts",
    "file": "113-dokuyoke-poison-ward.mp4",
-   "poster": "113-dokuyoke-poison-ward.jpg"
+   "poster": "113-dokuyoke-poison-ward.jpg",
+   "desc": "C/A-rank. An aura that burns poison out of the target. A also clears disease. Needs the ANBU frog mask worn.",
+   "rank": "C",
+   "def": "NF_Anbu_PoisonWard"
   },
   {
    "label": "Kanzen Yōkai (Complete Meltdown)",
    "tree": "ANBU division arts",
    "group": "ANBU field medicine and assassin's arts",
    "file": "114-kanzen-y-kai-complete-meltdown.mp4",
-   "poster": "114-kanzen-y-kai-complete-meltdown.jpg"
+   "poster": "114-kanzen-y-kai-complete-meltdown.jpg",
+   "desc": "Blindingly fast strikes and a chakra jab to the neck: the target sees five ANBU at once and runs in terror. Needs the ANBU frog mask worn.",
+   "rank": "S",
+   "def": "NF_Anbu_Meltdown"
   },
   {
    "label": "Fūmin (Confined Sleep)",
    "tree": "ANBU division arts",
    "group": "ANBU field medicine and assassin's arts",
    "file": "115-f-min-confined-sleep.mp4",
-   "poster": "115-f-min-confined-sleep.jpg"
+   "poster": "115-f-min-confined-sleep.jpg",
+   "desc": "A dance of wave links to the eyes, then a touch: the target's limbs fall asleep one by one. Needs the ANBU frog mask worn.",
+   "rank": "B",
+   "def": "NF_Anbu_ConfinedSleep"
   },
   {
    "label": "Kekkai Kurai no Honō (Barrier-Eating Flames)",
    "tree": "ANBU division arts",
    "group": "ANBU field medicine and assassin's arts",
    "file": "116-kekkai-kurai-no-hon-barrier-eating-flames.mp4",
-   "poster": "116-kekkai-kurai-no-hon-barrier-eating-flames.jpg"
+   "poster": "116-kekkai-kurai-no-hon-barrier-eating-flames.jpg",
+   "desc": "Five purple flames that eat away enemy barriers, walls and domes on the spot. Needs the ANBU frog mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_EatingFlames"
   },
   {
    "label": "Shinkeitō (Nerve Blade)",
    "tree": "ANBU division arts",
    "group": "ANBU field medicine and assassin's arts",
    "file": "117-shinkeit-nerve-blade.mp4",
-   "poster": "117-shinkeit-nerve-blade.jpg"
+   "poster": "117-shinkeit-nerve-blade.jpg",
+   "desc": "An assassin's blade of chakra from the wrist that severs the nerves. Huge damage, a long stun. Needs the ANBU frog mask worn.",
+   "rank": "S",
+   "def": "NF_Anbu_NerveBlade"
   },
   {
    "label": "Shōgeki no Shinjitsu (Shocking Truth)",
    "tree": "ANBU division arts",
    "group": "ANBU, questioning and the mind",
    "file": "118-sh-geki-no-shinjitsu-shocking-truth.mp4",
-   "poster": "118-sh-geki-no-shinjitsu-shocking-truth.jpg"
+   "poster": "118-sh-geki-no-shinjitsu-shocking-truth.jpg",
+   "desc": "C/B/A-rank. Lightning from the hands into a target in reach. Painful enough to loosen any tongue. Needs the ANBU wolf mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_ShockingTruth"
   },
   {
    "label": "Shinshō (Stun Palm)",
    "tree": "ANBU arts",
    "group": "ANBU, questioning and the mind",
    "file": "119-shinsh-stun-palm.mp4",
-   "poster": "119-shinsh-stun-palm.jpg"
+   "poster": "119-shinsh-stun-palm.jpg",
+   "desc": "A thousand volts through the palms into a target in reach. A long stun.",
+   "rank": "B",
+   "def": "NF_AnbuU_StunPalm"
   },
   {
    "label": "Dokushin (Mind Reading)",
    "tree": "ANBU division arts",
    "group": "ANBU, questioning and the mind",
    "file": "120-dokushin-mind-reading.mp4",
-   "poster": "120-dokushin-mind-reading.jpg"
+   "poster": "120-dokushin-mind-reading.jpg",
+   "desc": "Read a prisoner's thoughts while questioning them: their resistance to recruitment is halved. Needs the ANBU wolf mask worn.",
+   "rank": "A",
+   "def": "NF_Anbu_MindReading"
   },
   {
    "label": "Kioku Keshi (Manual Amnesia)",
    "tree": "ANBU arts",
    "group": "ANBU, questioning and the mind",
    "file": "121-kioku-keshi-manual-amnesia.mp4",
-   "poster": "121-kioku-keshi-manual-amnesia.jpg"
+   "poster": "121-kioku-keshi-manual-amnesia.jpg",
+   "desc": "B/A/S-rank. The user forces themselves to forget. B: the three worst memories. A: every bad memory. S: every bad memory, and it ends a mental break.",
+   "rank": "S",
+   "def": "NF_AnbuU_Amnesia"
   },
   {
    "label": "Noroi Ningyō (Curse Doll)",
    "tree": "ANBU arts",
    "group": "ANBU, questioning and the mind",
    "file": "122-noroi-ningy-curse-doll.mp4",
-   "poster": "122-noroi-ningy-curse-doll.jpg"
+   "poster": "122-noroi-ningy-curse-doll.jpg",
+   "desc": "A clay doll made with something of the target's: it suffers pain and dizziness for a long time.",
+   "rank": "C",
+   "def": "NF_AnbuU_CurseDoll"
   },
   {
    "label": "Kanashibari",
    "tree": "ANBU arts",
    "group": "ANBU, questioning and the mind",
    "file": "123-kanashibari.mp4",
-   "poster": "123-kanashibari.jpg"
+   "poster": "123-kanashibari.jpg",
+   "desc": "The basic ANBU paralysis: the target freezes in place for a few seconds.",
+   "rank": "D",
+   "def": "NF_AnbuU_Paralysis"
   },
   {
    "label": "Kyōonpa (Violent Sound Wave)",
    "tree": "ANBU arts",
    "group": "ANBU, questioning and the mind",
    "file": "124-ky-onpa-violent-sound-wave.mp4",
-   "poster": "124-ky-onpa-violent-sound-wave.jpg"
+   "poster": "124-ky-onpa-violent-sound-wave.jpg",
+   "desc": "A clap that sends a stunning wave of sound forward. Hits anyone in it, allies too.",
+   "rank": "B",
+   "def": "NF_AnbuU_SoundWave"
   },
   {
    "label": "Kan'on (Shrill Tone)",
    "tree": "ANBU arts",
    "group": "ANBU, questioning and the mind",
    "file": "125-kan-on-shrill-tone.mp4",
-   "poster": "125-kan-on-shrill-tone.jpg"
+   "poster": "125-kan-on-shrill-tone.jpg",
+   "desc": "A piercing tone over a wide area: enemies are deafened and dazed.",
+   "rank": "B",
+   "def": "NF_AnbuU_ShrillTone"
   },
   {
    "label": "Kinawa Shibari (Chakra Rope Binding)",
    "tree": "ANBU arts",
    "group": "ANBU, binds and burning",
    "file": "126-kinawa-shibari-chakra-rope-binding.mp4",
-   "poster": "126-kinawa-shibari-chakra-rope-binding.jpg"
+   "poster": "126-kinawa-shibari-chakra-rope-binding.jpg",
+   "desc": "A rope of chakra lashes out and binds the target's arms and legs.",
+   "rank": "A",
+   "def": "NF_AnbuU_Rope"
   },
   {
    "label": "Bōkyaku no Ori (Cage of the Forgotten)",
    "tree": "ANBU arts",
    "group": "ANBU, binds and burning",
    "file": "127-b-kyaku-no-ori-cage-of-the-forgotten.mp4",
-   "poster": "127-b-kyaku-no-ori-cage-of-the-forgotten.jpg"
+   "poster": "127-b-kyaku-no-ori-cage-of-the-forgotten.jpg",
+   "desc": "A red diamond seal traps the target; it can't move and its chakra drains away.",
+   "rank": "B",
+   "def": "NF_AnbuU_Cage"
   },
   {
    "label": "Kitejō (Chakra Cuffs)",
    "tree": "ANBU arts",
    "group": "ANBU, binds and burning",
    "file": "128-kitej-chakra-cuffs.mp4",
-   "poster": "128-kitej-chakra-cuffs.jpg"
+   "poster": "128-kitej-chakra-cuffs.jpg",
+   "desc": "Hands locked behind the back with shackles of chakra: the target can barely move or fight.",
+   "rank": "B",
+   "def": "NF_AnbuU_ChakraCuffs"
   },
   {
    "label": "Guren Kadama (Crimson Fireball)",
    "tree": "ANBU arts",
    "group": "ANBU, binds and burning",
    "file": "129-guren-kadama-crimson-fireball.mp4",
-   "poster": "129-guren-kadama-crimson-fireball.jpg"
+   "poster": "129-guren-kadama-crimson-fireball.jpg",
+   "desc": "C/B/A/S-rank. An orb of chakra bursts into flame and explodes on the target.",
+   "rank": "C",
+   "def": "NF_AnbuU_Fireball"
   },
   {
    "label": "Sōao Hōkiboshi (Twin Blue Comets)",
    "tree": "ANBU arts",
    "group": "ANBU, binds and burning",
    "file": "130-s-ao-h-kiboshi-twin-blue-comets.mp4",
-   "poster": "130-s-ao-h-kiboshi-twin-blue-comets.jpg"
+   "poster": "130-s-ao-h-kiboshi-twin-blue-comets.jpg",
+   "desc": "Two blue fire comets at once burn a wide path ahead. Hits anyone in the way, allies too.",
+   "rank": "S",
+   "def": "NF_AnbuU_TwinComets"
   },
   {
    "label": "Yōkai Kiri (Dissolving Mist)",
    "tree": "ANBU arts",
    "group": "ANBU, binds and burning",
    "file": "131-y-kai-kiri-dissolving-mist.mp4",
-   "poster": "131-y-kai-kiri-dissolving-mist.jpg"
+   "poster": "131-y-kai-kiri-dissolving-mist.jpg",
+   "desc": "After a long gathering of chakra, a mist eats at everything solid around the user, allies too.",
+   "rank": "S",
+   "def": "NF_AnbuU_DissolvingMist"
   },
   {
    "label": "Shitai Shobun (Body Disposal)",
    "tree": "ANBU arts",
    "group": "ANBU, binds and burning",
    "file": "132-shitai-shobun-body-disposal.mp4",
-   "poster": "132-shitai-shobun-body-disposal.jpg"
+   "poster": "132-shitai-shobun-body-disposal.jpg",
+   "desc": "Blue flames in a small circle burn corpses away without even ash.",
+   "rank": "B",
+   "def": "NF_AnbuU_Disposal"
   },
   {
    "label": "Shitai Hozon (Body Conservation)",
    "tree": "ANBU arts",
    "group": "ANBU, binds and burning",
    "file": "133-shitai-hozon-body-conservation.mp4",
-   "poster": "133-shitai-hozon-body-conservation.jpg"
+   "poster": "133-shitai-hozon-body-conservation.jpg",
+   "desc": "A shell of chakra keeps nearby corpses from rotting, as fresh as the hour they died.",
+   "rank": "C",
+   "def": "NF_AnbuU_Conservation"
   },
   {
    "label": "Kanpeki Nage (Perfect Throw)",
    "tree": "ANBU arts",
    "group": "ANBU, field craft",
    "file": "134-kanpeki-nage-perfect-throw.mp4",
-   "poster": "134-kanpeki-nage-perfect-throw.jpg"
+   "poster": "134-kanpeki-nage-perfect-throw.jpg",
+   "desc": "Chakra threads guide every thrown weapon: aim faster and truer for a while.",
+   "rank": "C",
+   "def": "NF_AnbuU_PerfectThrow"
   },
   {
    "label": "Tsuiseki no Jutsu (Tracking Technique)",
    "tree": "ANBU arts",
    "group": "ANBU, field craft",
    "file": "135-tsuiseki-no-jutsu-tracking-technique.mp4",
-   "poster": "135-tsuiseki-no-jutsu-tracking-technique.jpg"
+   "poster": "135-tsuiseki-no-jutsu-tracking-technique.jpg",
+   "desc": "Read the traces left behind: every enemy within 80 cells is revealed.",
+   "rank": "B",
+   "def": "NF_AnbuU_Tracking"
   },
   {
    "label": "Don the Mask",
    "tree": "ANBU",
    "group": "ANBU, field craft",
    "file": "136-don-the-mask.mp4",
-   "poster": "136-don-the-mask.jpg"
+   "poster": "136-don-the-mask.jpg",
+   "desc": "Put on the ANBU mask for a day: steady nerves, sharper skill.",
+   "rank": "D",
+   "def": "NF_ANBU_Mask"
   },
   {
    "label": "Smoke Escape",
    "tree": "ANBU",
    "group": "ANBU, field craft",
    "file": "137-smoke-escape.mp4",
-   "poster": "137-smoke-escape.jpg"
+   "poster": "137-smoke-escape.jpg",
+   "desc": "Vanish into a cloud of smoke at the user's feet: the user is unseen for a moment while the smoke is thick.",
+   "rank": "C",
+   "def": "NF_ANBU_Smoke"
   },
   {
    "label": "Shadow Stealth",
    "tree": "ANBU",
    "group": "ANBU, field craft",
    "file": "138-shadow-stealth.mp4",
-   "poster": "138-shadow-stealth.jpg"
+   "poster": "138-shadow-stealth.jpg",
+   "desc": "Melt into the shadows for half a minute.",
+   "rank": "C",
+   "def": "NF_ANBU_Stealth"
   },
   {
    "label": "Shadow Squad",
    "tree": "ANBU",
    "group": "ANBU, field craft",
    "file": "139-shadow-squad.mp4",
-   "poster": "139-shadow-squad.jpg"
+   "poster": "139-shadow-squad.jpg",
+   "desc": "Hide every friend in a wide circle in shadow for half a minute.",
+   "rank": "S",
+   "def": "NF_ANBU_Squad"
   },
   {
    "label": "Tanto Flash",
    "tree": "ANBU",
    "group": "ANBU, field craft",
    "file": "140-tanto-flash.mp4",
-   "poster": "140-tanto-flash.jpg"
+   "poster": "140-tanto-flash.jpg",
+   "desc": "Flash through a line of enemies with a short blade.",
+   "rank": "B",
+   "def": "NF_ANBU_Tanto"
   },
   {
    "label": "Silent Kill",
    "tree": "ANBU",
    "group": "ANBU, field craft",
    "file": "141-silent-kill.mp4",
-   "poster": "141-silent-kill.jpg"
+   "poster": "141-silent-kill.jpg",
+   "desc": "One silent, killing strike. An enemy below half health dies outright; one caught unaware is struck in the neck or heart.",
+   "rank": "A",
+   "def": "NF_ANBU_Silent"
   },
   {
    "label": "Burning Legs",
    "tree": "Ake Sune (Red Leg)",
    "group": "Burning legs",
    "file": "142-burning-legs.mp4",
-   "poster": "142-burning-legs.jpg"
+   "poster": "142-burning-legs.jpg",
+   "desc": "Heat the legs red-hot for a fight: kicks only, and they burn.",
+   "rank": "C",
+   "def": "NF_RedLeg_Leg"
   },
   {
    "label": "Searing Shin",
    "tree": "Ake Sune (Red Leg)",
    "group": "Burning legs",
    "file": "143-searing-shin.mp4",
-   "poster": "143-searing-shin.jpg"
+   "poster": "143-searing-shin.jpg",
+   "desc": "A red-hot shin kick to one enemy.",
+   "rank": "C",
+   "def": "NF_RedLeg_Shin"
   },
   {
    "label": "Flaming Axe Kick",
    "tree": "Ake Sune (Red Leg)",
    "group": "Burning legs",
    "file": "144-flaming-axe-kick.mp4",
-   "poster": "144-flaming-axe-kick.jpg"
+   "poster": "144-flaming-axe-kick.jpg",
+   "desc": "A heel dropped like an axe on one enemy.",
+   "rank": "B",
+   "def": "NF_RedLeg_Axe"
   },
   {
    "label": "Burning Sky Step",
    "tree": "Ake Sune (Red Leg)",
    "group": "Burning legs",
    "file": "145-burning-sky-step.mp4",
-   "poster": "145-burning-sky-step.jpg"
+   "poster": "145-burning-sky-step.jpg",
+   "desc": "Kick off the air and through a line of enemies.",
+   "rank": "B",
+   "def": "NF_RedLeg_Skywalk"
   },
   {
    "label": "Burning Whirl",
    "tree": "Ake Sune (Red Leg)",
    "group": "Burning legs",
    "file": "146-burning-whirl.mp4",
-   "poster": "146-burning-whirl.jpg"
+   "poster": "146-burning-whirl.jpg",
+   "desc": "A spinning burning kick around the user.",
+   "rank": "A",
+   "def": "NF_RedLeg_Whirl"
   },
   {
    "label": "Crimson Inferno Kick",
    "tree": "Ake Sune (Red Leg)",
    "group": "Burning legs",
    "file": "147-crimson-inferno-kick.mp4",
-   "poster": "147-crimson-inferno-kick.jpg"
+   "poster": "147-crimson-inferno-kick.jpg",
+   "desc": "Every bit of heat poured into one kick.",
+   "rank": "S",
+   "def": "NF_RedLeg_Inferno"
   },
   {
    "label": "Battōjutsu (Art of Drawing the Blade)",
    "tree": "Busōsen (Arms Flash)",
    "group": "The drawing blade",
    "file": "148-batt-jutsu-art-of-drawing-the-blade.mp4",
-   "poster": "148-batt-jutsu-art-of-drawing-the-blade.jpg"
+   "poster": "148-batt-jutsu-art-of-drawing-the-blade.jpg",
+   "desc": "A lightning-fast draw-cut on one enemy.",
+   "rank": "C",
+   "def": "NF_Arch_Busosen_Draw"
   },
   {
    "label": "Hanabira Surasshu (Petal Slash)",
    "tree": "Busōsen (Arms Flash)",
    "group": "The drawing blade",
    "file": "149-hanabira-surasshu-petal-slash.mp4",
-   "poster": "149-hanabira-surasshu-petal-slash.jpg"
+   "poster": "149-hanabira-surasshu-petal-slash.jpg",
+   "desc": "A draw-cut followed by a scatter of quick slashes across everyone in front.",
+   "rank": "C",
+   "def": "NF_Arch_Busosen_PetalSlash"
   },
   {
    "label": "Kagenui (Shadow Stitch)",
    "tree": "Busōsen (Arms Flash)",
    "group": "The drawing blade",
    "file": "150-kagenui-shadow-stitch.mp4",
-   "poster": "150-kagenui-shadow-stitch.jpg"
+   "poster": "150-kagenui-shadow-stitch.jpg",
+   "desc": "Flash past one enemy and cut them from behind.",
+   "rank": "C",
+   "def": "NF_Arch_Busosen_ShadowStitch"
   },
   {
    "label": "Shidensen (Purple Lightning Flash)",
    "tree": "Busōsen (Arms Flash)",
    "group": "The drawing blade",
    "file": "151-shidensen-purple-lightning-flash.mp4",
-   "poster": "151-shidensen-purple-lightning-flash.jpg"
+   "poster": "151-shidensen-purple-lightning-flash.jpg",
+   "desc": "A draw-cut wreathed in lightning that stuns one enemy.",
+   "rank": "B",
+   "def": "NF_Arch_Busosen_PurpleFlash"
   },
   {
    "label": "Sakura Tsuisutā (Sakura Twister)",
    "tree": "Busōsen (Arms Flash)",
    "group": "The drawing blade",
    "file": "152-sakura-tsuisut-sakura-twister.mp4",
-   "poster": "152-sakura-tsuisut-sakura-twister.jpg"
+   "poster": "152-sakura-tsuisut-sakura-twister.jpg",
+   "desc": "A spinning draw-cut that slashes everyone around you.",
+   "rank": "B",
+   "def": "NF_Arch_Busosen_SakuraTwister"
   },
   {
    "label": "Fureā (Flare)",
    "tree": "Busōsen (Arms Flash)",
    "group": "The drawing blade",
    "file": "153-fure-flare.mp4",
-   "poster": "153-fure-flare.jpg"
+   "poster": "153-fure-flare.jpg",
+   "desc": "A spiralling cut that strikes every enemy around you.",
+   "rank": "A",
+   "def": "NF_Arch_Busosen_Flare"
   },
   {
    "label": "Gosei Ryuu: Wisdom Dragon Stance",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "154-gosei-ryuu-wisdom-dragon-stance.mp4",
-   "poster": "154-gosei-ryuu-wisdom-dragon-stance.jpg"
+   "poster": "154-gosei-ryuu-wisdom-dragon-stance.jpg",
+   "desc": "Hold the Wisdom Dragon for a fight. Gosei techniques hit harder, and you hit a Genkai fighter harder. Only one Kenseijin stance at a time. (Needs a bladed weapon.)",
+   "rank": "D",
+   "def": "NF_Kenseijin_StanceGosei"
   },
   {
    "label": "Genkai Ryuu: Courage Dragon Stance",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "155-genkai-ryuu-courage-dragon-stance.mp4",
-   "poster": "155-genkai-ryuu-courage-dragon-stance.jpg"
+   "poster": "155-genkai-ryuu-courage-dragon-stance.jpg",
+   "desc": "Hold the Courage Dragon for a fight. Genkai techniques hit harder, and you hit a Tsuyosa fighter harder. Only one Kenseijin stance at a time. (Needs a bladed weapon.)",
+   "rank": "D",
+   "def": "NF_Kenseijin_StanceGenkai"
   },
   {
    "label": "Tsuyosa Ryuu: Power Dragon Stance",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "156-tsuyosa-ryuu-power-dragon-stance.mp4",
-   "poster": "156-tsuyosa-ryuu-power-dragon-stance.jpg"
+   "poster": "156-tsuyosa-ryuu-power-dragon-stance.jpg",
+   "desc": "Hold the Power Dragon for a fight. Tsuyosa techniques hit harder, and you hit a Gosei fighter harder. Only one Kenseijin stance at a time. (Needs a bladed weapon.)",
+   "rank": "D",
+   "def": "NF_Kenseijin_StanceTsuyosa"
   },
   {
    "label": "Genkai Ryuu: Jinsokugeiru (Rapid Gale)",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "157-genkai-ryuu-jinsokugeiru-rapid-gale.mp4",
-   "poster": "157-genkai-ryuu-jinsokugeiru-rapid-gale.jpg"
+   "poster": "157-genkai-ryuu-jinsokugeiru-rapid-gale.jpg",
+   "desc": "A double slash, one way and back again. (Needs a bladed weapon.)",
+   "rank": "D",
+   "def": "NF_Kenseijin_GenkaiGale"
   },
   {
    "label": "Genkai Ryuu: Herumukatsu (Crown Splitter)",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "158-genkai-ryuu-herumukatsu-crown-splitter.mp4",
-   "poster": "158-genkai-ryuu-herumukatsu-crown-splitter.jpg"
+   "poster": "158-genkai-ryuu-herumukatsu-crown-splitter.jpg",
+   "desc": "Leap and bring the blade down on one enemy's head hard enough to split a helmet. (Needs a bladed weapon.)",
+   "rank": "B",
+   "def": "NF_Kenseijin_GenkaiCrown"
   },
   {
    "label": "Genkai Ryuu: Issen (Flash)",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "159-genkai-ryuu-issen-flash.mp4",
-   "poster": "159-genkai-ryuu-issen-flash.jpg"
+   "poster": "159-genkai-ryuu-issen-flash.jpg",
+   "desc": "One counter-cut that kills most enemies outright. (Needs a bladed weapon.)",
+   "rank": "S",
+   "def": "NF_Kenseijin_GenkaiIssen"
   },
   {
    "label": "Tsuyosa Ryuu: Gufuukakou (Tornado Drop)",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "160-tsuyosa-ryuu-gufuukakou-tornado-drop.mp4",
-   "poster": "160-tsuyosa-ryuu-gufuukakou-tornado-drop.jpg"
+   "poster": "160-tsuyosa-ryuu-gufuukakou-tornado-drop.jpg",
+   "desc": "Grab one enemy, spin up into the air and drive them into the ground. (Needs a melee weapon.)",
+   "rank": "C",
+   "def": "NF_Kenseijin_TsuyosaDrop"
   },
   {
    "label": "Tsuyosa Ryuu: Kaisoku (Quick of Foot)",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "161-tsuyosa-ryuu-kaisoku-quick-of-foot.mp4",
-   "poster": "161-tsuyosa-ryuu-kaisoku-quick-of-foot.jpg"
+   "poster": "161-tsuyosa-ryuu-kaisoku-quick-of-foot.jpg",
+   "desc": "A counter that strips one enemy of their weapon. (Needs a melee weapon.)",
+   "rank": "C",
+   "def": "NF_Kenseijin_TsuyosaDisarm"
   },
   {
    "label": "Tsuyosa Ryuu: Nijuu no Kiwami (Twofold Strike)",
    "tree": "Burēdono Kenseijin (Sword Saint)",
    "group": "Three dragon stances",
    "file": "162-tsuyosa-ryuu-nijuu-no-kiwami-twofold-strike.mp4",
-   "poster": "162-tsuyosa-ryuu-nijuu-no-kiwami-twofold-strike.jpg"
+   "poster": "162-tsuyosa-ryuu-nijuu-no-kiwami-twofold-strike.jpg",
+   "desc": "Two blows land as one, the second passing straight through armour. (Needs a melee weapon.)",
+   "rank": "A",
+   "def": "NF_Kenseijin_TsuyosaTwofold"
   }
  ]
 }

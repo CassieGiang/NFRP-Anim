@@ -21,9 +21,10 @@ def body():
     for g, cs in groups:
         gid = re.sub(r'[^a-z0-9]+', '-', g.lower()).strip('-')
         cards = ''.join(
-            f'<figure class="anim" data-n="{E((c["label"] + " " + c.get("tree", "")).lower())}">'
+            f'<figure class="anim" data-n="{E((c["label"] + " " + c.get("tree", "") + " " + c.get("desc", "")).lower())}">'
             f'<video src="anim/{E(c["file"])}" muted loop playsinline preload="none" poster="anim/{E(c["poster"])}" aria-label="{E(c["label"])}"></video>'
-            f'<figcaption><b>{E(c["label"])}</b>{("<small>" + E(c["tree"]) + "</small>") if c.get("tree") else ""}</figcaption></figure>'
+            f'<figcaption><b>{E(c["label"])}</b>{("<small>" + E(c["tree"]) + (" · " + E(c["rank"]) + "-rank" if c.get("rank") else "") + "</small>") if c.get("tree") else ""}'
+            f'{("<p>" + E(c["desc"]) + "</p>") if c.get("desc") else ""}</figcaption></figure>'
             for c in cs)
         out.append(f'<h2 id="{gid}">{E(g)} <small>{len(cs)}</small></h2><div class="grid anims">{cards}</div>')
     out.append('''<script>
@@ -38,7 +39,7 @@ CSS = ('.grid.anims{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}'
        'figure.anim{margin:0;background:var(--panel);border:1px solid var(--line);border-radius:8px;overflow:hidden}'
        'figure.anim video{display:block;width:100%;aspect-ratio:16/9;background:#111;cursor:pointer;object-fit:cover}'
        'figure.anim figcaption{padding:8px 10px}figure.anim figcaption b{display:block;font-family:"Shippori Mincho",Georgia,serif}'
-       'figure.anim figcaption small{color:var(--muted)}')
+       'figure.anim figcaption small{color:var(--muted)}figure.anim figcaption p{margin:6px 0 0;font-size:.9rem;line-height:1.4;color:var(--ink)}')
 
 def build(page):
     b, m = body()
