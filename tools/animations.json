@@ -1,5 +1,5 @@
 {
- "intro": "Every hand-made technique animation for the nine major clans, the masked guard and the Red Leg, Busosen and Kenseijin styles, recorded in game. Clips play on their own as you scroll; click one to pause it.",
+ "intro": "Every hand-made technique animation for the nine major clans, the ANBU and the Red Leg, Busosen and Kenseijin styles, recorded in game. Clips play on their own as you scroll; click one to pause it.",
  "clips": [
   {
    "label": "Katon: Great Fireball",
@@ -655,336 +655,336 @@
   {
    "label": "Doken Tsuiseki (Earthen Tracking Hounds)",
    "tree": "ANBU division arts",
-   "group": "Masked guard tracking, lightning and silence",
+   "group": "ANBU tracking, lightning and silence",
    "file": "094-doken-tsuiseki-earthen-tracking-hounds.mp4",
    "poster": "094-doken-tsuiseki-earthen-tracking-hounds.jpg"
   },
   {
    "label": "Chiato (Blood Trail)",
    "tree": "ANBU division arts",
-   "group": "Masked guard tracking, lightning and silence",
+   "group": "ANBU tracking, lightning and silence",
    "file": "095-chiato-blood-trail.mp4",
    "poster": "095-chiato-blood-trail.jpg"
   },
   {
    "label": "Kowadori (Voice Capture)",
    "tree": "ANBU division arts",
-   "group": "Masked guard tracking, lightning and silence",
+   "group": "ANBU tracking, lightning and silence",
    "file": "096-kowadori-voice-capture.mp4",
    "poster": "096-kowadori-voice-capture.jpg"
   },
   {
    "label": "Raihō (Thunder Cannon)",
    "tree": "ANBU division arts",
-   "group": "Masked guard tracking, lightning and silence",
+   "group": "ANBU tracking, lightning and silence",
    "file": "097-raih-thunder-cannon.mp4",
    "poster": "097-raih-thunder-cannon.jpg"
   },
   {
    "label": "Rairō (Lightning Cage)",
    "tree": "ANBU division arts",
-   "group": "Masked guard tracking, lightning and silence",
+   "group": "ANBU tracking, lightning and silence",
    "file": "098-rair-lightning-cage.mp4",
    "poster": "098-rair-lightning-cage.jpg"
   },
   {
    "label": "Seihaku Rai (Pale Bolt)",
    "tree": "ANBU division arts",
-   "group": "Masked guard tracking, lightning and silence",
+   "group": "ANBU tracking, lightning and silence",
    "file": "099-seihaku-rai-pale-bolt.mp4",
    "poster": "099-seihaku-rai-pale-bolt.jpg"
   },
   {
    "label": "Seijaku no Maru (Silence Dome)",
    "tree": "ANBU division arts",
-   "group": "Masked guard tracking, lightning and silence",
+   "group": "ANBU tracking, lightning and silence",
    "file": "100-seijaku-no-maru-silence-dome.mp4",
    "poster": "100-seijaku-no-maru-silence-dome.jpg"
   },
   {
    "label": "Otomaku (Sound Veil)",
    "tree": "ANBU division arts",
-   "group": "Masked guard tracking, lightning and silence",
+   "group": "ANBU tracking, lightning and silence",
    "file": "101-otomaku-sound-veil.mp4",
    "poster": "101-otomaku-sound-veil.jpg"
   },
   {
    "label": "Kodama Obiki (Echo Lure)",
    "tree": "ANBU division arts",
-   "group": "Masked guard echoes, earth, barriers and stealth",
+   "group": "ANBU echoes, earth, barriers and stealth",
    "file": "102-kodama-obiki-echo-lure.mp4",
    "poster": "102-kodama-obiki-echo-lure.jpg"
   },
   {
    "label": "Jishinken (Earthquake Fist)",
    "tree": "ANBU division arts",
-   "group": "Masked guard echoes, earth, barriers and stealth",
+   "group": "ANBU echoes, earth, barriers and stealth",
    "file": "103-jishinken-earthquake-fist.mp4",
    "poster": "103-jishinken-earthquake-fist.jpg"
   },
   {
    "label": "Kijishaku Wana (Chakra Magnet Trap)",
    "tree": "ANBU division arts",
-   "group": "Masked guard echoes, earth, barriers and stealth",
+   "group": "ANBU echoes, earth, barriers and stealth",
    "file": "104-kijishaku-wana-chakra-magnet-trap.mp4",
    "poster": "104-kijishaku-wana-chakra-magnet-trap.jpg"
   },
   {
    "label": "Kitoride (Chakra Bulwark)",
    "tree": "ANBU division arts",
-   "group": "Masked guard echoes, earth, barriers and stealth",
+   "group": "ANBU echoes, earth, barriers and stealth",
    "file": "105-kitoride-chakra-bulwark.mp4",
    "poster": "105-kitoride-chakra-bulwark.jpg"
   },
   {
    "label": "Sōheki (Twin Barrier)",
    "tree": "ANBU division arts",
-   "group": "Masked guard echoes, earth, barriers and stealth",
+   "group": "ANBU echoes, earth, barriers and stealth",
    "file": "106-s-heki-twin-barrier.mp4",
    "poster": "106-s-heki-twin-barrier.jpg"
   },
   {
    "label": "Kakure Ashi (Unseen Step)",
    "tree": "ANBU division arts",
-   "group": "Masked guard echoes, earth, barriers and stealth",
+   "group": "ANBU echoes, earth, barriers and stealth",
    "file": "107-kakure-ashi-unseen-step.mp4",
    "poster": "107-kakure-ashi-unseen-step.jpg"
   },
   {
    "label": "Senbon Sōsa (Senbon Control)",
    "tree": "ANBU division arts",
-   "group": "Masked guard echoes, earth, barriers and stealth",
+   "group": "ANBU echoes, earth, barriers and stealth",
    "file": "108-senbon-s-sa-senbon-control.mp4",
    "poster": "108-senbon-s-sa-senbon-control.jpg"
   },
   {
    "label": "Wana Kakushi (Trap Concealment)",
    "tree": "ANBU division arts",
-   "group": "Masked guard echoes, earth, barriers and stealth",
+   "group": "ANBU echoes, earth, barriers and stealth",
    "file": "109-wana-kakushi-trap-concealment.mp4",
    "poster": "109-wana-kakushi-trap-concealment.jpg"
   },
   {
    "label": "Yakusō no Chie (Herbal Lore)",
    "tree": "ANBU division arts",
-   "group": "Masked guard field medicine and assassin's arts",
+   "group": "ANBU field medicine and assassin's arts",
    "file": "110-yakus-no-chie-herbal-lore.mp4",
    "poster": "110-yakus-no-chie-herbal-lore.jpg"
   },
   {
    "label": "Iyashi no Ki (Healing Aura)",
    "tree": "ANBU division arts",
-   "group": "Masked guard field medicine and assassin's arts",
+   "group": "ANBU field medicine and assassin's arts",
    "file": "111-iyashi-no-ki-healing-aura.mp4",
    "poster": "111-iyashi-no-ki-healing-aura.jpg"
   },
   {
    "label": "Mamori no Ki (Protection Aura)",
    "tree": "ANBU division arts",
-   "group": "Masked guard field medicine and assassin's arts",
+   "group": "ANBU field medicine and assassin's arts",
    "file": "112-mamori-no-ki-protection-aura.mp4",
    "poster": "112-mamori-no-ki-protection-aura.jpg"
   },
   {
    "label": "Dokuyoke (Poison Ward)",
    "tree": "ANBU division arts",
-   "group": "Masked guard field medicine and assassin's arts",
+   "group": "ANBU field medicine and assassin's arts",
    "file": "113-dokuyoke-poison-ward.mp4",
    "poster": "113-dokuyoke-poison-ward.jpg"
   },
   {
    "label": "Kanzen Yōkai (Complete Meltdown)",
    "tree": "ANBU division arts",
-   "group": "Masked guard field medicine and assassin's arts",
+   "group": "ANBU field medicine and assassin's arts",
    "file": "114-kanzen-y-kai-complete-meltdown.mp4",
    "poster": "114-kanzen-y-kai-complete-meltdown.jpg"
   },
   {
    "label": "Fūmin (Confined Sleep)",
    "tree": "ANBU division arts",
-   "group": "Masked guard field medicine and assassin's arts",
+   "group": "ANBU field medicine and assassin's arts",
    "file": "115-f-min-confined-sleep.mp4",
    "poster": "115-f-min-confined-sleep.jpg"
   },
   {
    "label": "Kekkai Kurai no Honō (Barrier-Eating Flames)",
    "tree": "ANBU division arts",
-   "group": "Masked guard field medicine and assassin's arts",
+   "group": "ANBU field medicine and assassin's arts",
    "file": "116-kekkai-kurai-no-hon-barrier-eating-flames.mp4",
    "poster": "116-kekkai-kurai-no-hon-barrier-eating-flames.jpg"
   },
   {
    "label": "Shinkeitō (Nerve Blade)",
    "tree": "ANBU division arts",
-   "group": "Masked guard field medicine and assassin's arts",
+   "group": "ANBU field medicine and assassin's arts",
    "file": "117-shinkeit-nerve-blade.mp4",
    "poster": "117-shinkeit-nerve-blade.jpg"
   },
   {
    "label": "Shōgeki no Shinjitsu (Shocking Truth)",
    "tree": "ANBU division arts",
-   "group": "Masked guard, questioning and the mind",
+   "group": "ANBU, questioning and the mind",
    "file": "118-sh-geki-no-shinjitsu-shocking-truth.mp4",
    "poster": "118-sh-geki-no-shinjitsu-shocking-truth.jpg"
   },
   {
    "label": "Shinshō (Stun Palm)",
    "tree": "ANBU arts",
-   "group": "Masked guard, questioning and the mind",
+   "group": "ANBU, questioning and the mind",
    "file": "119-shinsh-stun-palm.mp4",
    "poster": "119-shinsh-stun-palm.jpg"
   },
   {
    "label": "Dokushin (Mind Reading)",
    "tree": "ANBU division arts",
-   "group": "Masked guard, questioning and the mind",
+   "group": "ANBU, questioning and the mind",
    "file": "120-dokushin-mind-reading.mp4",
    "poster": "120-dokushin-mind-reading.jpg"
   },
   {
    "label": "Kioku Keshi (Manual Amnesia)",
    "tree": "ANBU arts",
-   "group": "Masked guard, questioning and the mind",
+   "group": "ANBU, questioning and the mind",
    "file": "121-kioku-keshi-manual-amnesia.mp4",
    "poster": "121-kioku-keshi-manual-amnesia.jpg"
   },
   {
    "label": "Noroi Ningyō (Curse Doll)",
    "tree": "ANBU arts",
-   "group": "Masked guard, questioning and the mind",
+   "group": "ANBU, questioning and the mind",
    "file": "122-noroi-ningy-curse-doll.mp4",
    "poster": "122-noroi-ningy-curse-doll.jpg"
   },
   {
    "label": "Kanashibari",
    "tree": "ANBU arts",
-   "group": "Masked guard, questioning and the mind",
+   "group": "ANBU, questioning and the mind",
    "file": "123-kanashibari.mp4",
    "poster": "123-kanashibari.jpg"
   },
   {
    "label": "Kyōonpa (Violent Sound Wave)",
    "tree": "ANBU arts",
-   "group": "Masked guard, questioning and the mind",
+   "group": "ANBU, questioning and the mind",
    "file": "124-ky-onpa-violent-sound-wave.mp4",
    "poster": "124-ky-onpa-violent-sound-wave.jpg"
   },
   {
    "label": "Kan'on (Shrill Tone)",
    "tree": "ANBU arts",
-   "group": "Masked guard, questioning and the mind",
+   "group": "ANBU, questioning and the mind",
    "file": "125-kan-on-shrill-tone.mp4",
    "poster": "125-kan-on-shrill-tone.jpg"
   },
   {
    "label": "Kinawa Shibari (Chakra Rope Binding)",
    "tree": "ANBU arts",
-   "group": "Masked guard, binds and burning",
+   "group": "ANBU, binds and burning",
    "file": "126-kinawa-shibari-chakra-rope-binding.mp4",
    "poster": "126-kinawa-shibari-chakra-rope-binding.jpg"
   },
   {
    "label": "Bōkyaku no Ori (Cage of the Forgotten)",
    "tree": "ANBU arts",
-   "group": "Masked guard, binds and burning",
+   "group": "ANBU, binds and burning",
    "file": "127-b-kyaku-no-ori-cage-of-the-forgotten.mp4",
    "poster": "127-b-kyaku-no-ori-cage-of-the-forgotten.jpg"
   },
   {
    "label": "Kitejō (Chakra Cuffs)",
    "tree": "ANBU arts",
-   "group": "Masked guard, binds and burning",
+   "group": "ANBU, binds and burning",
    "file": "128-kitej-chakra-cuffs.mp4",
    "poster": "128-kitej-chakra-cuffs.jpg"
   },
   {
    "label": "Guren Kadama (Crimson Fireball)",
    "tree": "ANBU arts",
-   "group": "Masked guard, binds and burning",
+   "group": "ANBU, binds and burning",
    "file": "129-guren-kadama-crimson-fireball.mp4",
    "poster": "129-guren-kadama-crimson-fireball.jpg"
   },
   {
    "label": "Sōao Hōkiboshi (Twin Blue Comets)",
    "tree": "ANBU arts",
-   "group": "Masked guard, binds and burning",
+   "group": "ANBU, binds and burning",
    "file": "130-s-ao-h-kiboshi-twin-blue-comets.mp4",
    "poster": "130-s-ao-h-kiboshi-twin-blue-comets.jpg"
   },
   {
    "label": "Yōkai Kiri (Dissolving Mist)",
    "tree": "ANBU arts",
-   "group": "Masked guard, binds and burning",
+   "group": "ANBU, binds and burning",
    "file": "131-y-kai-kiri-dissolving-mist.mp4",
    "poster": "131-y-kai-kiri-dissolving-mist.jpg"
   },
   {
    "label": "Shitai Shobun (Body Disposal)",
    "tree": "ANBU arts",
-   "group": "Masked guard, binds and burning",
+   "group": "ANBU, binds and burning",
    "file": "132-shitai-shobun-body-disposal.mp4",
    "poster": "132-shitai-shobun-body-disposal.jpg"
   },
   {
    "label": "Shitai Hozon (Body Conservation)",
    "tree": "ANBU arts",
-   "group": "Masked guard, binds and burning",
+   "group": "ANBU, binds and burning",
    "file": "133-shitai-hozon-body-conservation.mp4",
    "poster": "133-shitai-hozon-body-conservation.jpg"
   },
   {
    "label": "Kanpeki Nage (Perfect Throw)",
    "tree": "ANBU arts",
-   "group": "Masked guard, field craft",
+   "group": "ANBU, field craft",
    "file": "134-kanpeki-nage-perfect-throw.mp4",
    "poster": "134-kanpeki-nage-perfect-throw.jpg"
   },
   {
    "label": "Tsuiseki no Jutsu (Tracking Technique)",
    "tree": "ANBU arts",
-   "group": "Masked guard, field craft",
+   "group": "ANBU, field craft",
    "file": "135-tsuiseki-no-jutsu-tracking-technique.mp4",
    "poster": "135-tsuiseki-no-jutsu-tracking-technique.jpg"
   },
   {
    "label": "Don the Mask",
    "tree": "ANBU",
-   "group": "Masked guard, field craft",
+   "group": "ANBU, field craft",
    "file": "136-don-the-mask.mp4",
    "poster": "136-don-the-mask.jpg"
   },
   {
    "label": "Smoke Escape",
    "tree": "ANBU",
-   "group": "Masked guard, field craft",
+   "group": "ANBU, field craft",
    "file": "137-smoke-escape.mp4",
    "poster": "137-smoke-escape.jpg"
   },
   {
    "label": "Shadow Stealth",
    "tree": "ANBU",
-   "group": "Masked guard, field craft",
+   "group": "ANBU, field craft",
    "file": "138-shadow-stealth.mp4",
    "poster": "138-shadow-stealth.jpg"
   },
   {
    "label": "Shadow Squad",
    "tree": "ANBU",
-   "group": "Masked guard, field craft",
+   "group": "ANBU, field craft",
    "file": "139-shadow-squad.mp4",
    "poster": "139-shadow-squad.jpg"
   },
   {
    "label": "Tanto Flash",
    "tree": "ANBU",
-   "group": "Masked guard, field craft",
+   "group": "ANBU, field craft",
    "file": "140-tanto-flash.mp4",
    "poster": "140-tanto-flash.jpg"
   },
   {
    "label": "Silent Kill",
    "tree": "ANBU",
-   "group": "Masked guard, field craft",
+   "group": "ANBU, field craft",
    "file": "141-silent-kill.mp4",
    "poster": "141-silent-kill.jpg"
   },

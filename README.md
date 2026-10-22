@@ -5,7 +5,7 @@ The animations wiki for the RimWorld mod NFRP World: recorded in-game clips of e
 The main wiki is https://cassiegiang.github.io/NFRP-World-Wiki/
 
 ## Folders
-- `clans-and-styles/`: 162 clips (the nine major clans, the masked guard, Red Leg, Busosen and Kenseijin), recorded
+- `clans-and-styles/`: 162 clips (the nine major clans, ANBU, Red Leg, Busosen and Kenseijin), recorded
   22 October 2026. Each technique has a looping silent `.mp4` (960 px wide, 24 fps) and a `.jpg` poster frame.
   `index.json` lists them in play order with their group, technique tree and file names.
 
