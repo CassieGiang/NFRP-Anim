@@ -10,3 +10,6 @@ The main wiki is https://cassiegiang.github.io/NFRP-World-Wiki/
   `index.json` lists them in play order with their group, technique tree and file names.
 
 The Kazeraikou clan was created by Marii from NFRP and is used with her permission.
+
+## Updating
+`tools/animations.py` and `tools/animations.json` are the page generator and the clip list (moved here from the main wiki).
