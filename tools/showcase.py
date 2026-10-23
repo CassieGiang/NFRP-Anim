@@ -57,7 +57,8 @@ def build(cut, defs, date):
     def card(c, overview=False):
         sub = 'Whole batch, as recorded' if overview else ' · '.join(x for x in (c['treeLabel'], (c['rank'] + '-rank') if c['rank'] else '') if x)
         body = c['desc'] if not overview else ''
-        if c.get('note'): body += (' ' if body else '') + '(Showcase note: the real cast did not start; this shows the animation layer only.)'
+        if c.get('skipped'): body += (' ' if body else '') + '(Not filmed: the showcase could not cast it. ' + c['skipped'].rstrip('.') + '.)'
+        elif c.get('note'): body += (' ' if body else '') + '(Showcase note: the real cast did not start; this shows the animation layer only.)'
         pre = folder.name + '/'
         return (f'<figure class="anim" data-n="{E((c["label"]+" "+sub+" "+body).lower(), quote=True)}">'
                 f'<div class="vw"><video src="{pre}{c["file"]}" muted loop playsinline preload="none" poster="{pre}{c["poster"]}" aria-label="{E(c["label"], quote=True)}"></video>'
