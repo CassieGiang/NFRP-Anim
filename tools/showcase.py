@@ -72,16 +72,17 @@ def build(cut, defs, date):
            '<div class="toolbar"><input type="search" placeholder="Filter hand-crafted animations" aria-label="Filter animations" autocomplete="off" id="animq"></div>',
            '<div class="toc">' + ''.join(f'<a href="#batch-{i}">{E(name)}</a>' for i, (name, _, _) in enumerate(groups)) + '</div>']
     for i, (name, children, overview) in enumerate(groups):
-        out.append(f'<h2 id="batch-{i}">{E(name)} <small>{len(children)}</small></h2><div class="grid anims">')
+        out.append(f'<details class="sec anim-category" id="batch-{i}"><summary><h2 class="st">{E(name)} <small>{len(children)}</small></h2></summary><div class="body"><div class="grid anims">')
         out.extend(card(c) for c in children)
         out.append('</div>')
         if overview: out.append('<details><summary>Watch the whole batch</summary><div class="grid anims">' + card(overview, True) + '</div></details>')
+        out.append('</div></details>')
 
     shell = (ROOT / 'index.html').read_text(encoding='utf-8')
     viewer = re.search(r'<script>.*?</script>', shell, re.S).group(0)
     nav = re.search(r'<nav>.*?</nav>', shell, re.S).group(0).replace(' class=on', '').replace('<a href="showcase.html">', '<a href="showcase.html" class=on>')   # keeps every tab
     page = re.sub(r'<nav>.*?</nav>', lambda _: nav, shell, count=1, flags=re.S)
-    page = re.sub(r'<main>.*?</main>', lambda _: '<main>' + ''.join(out) + viewer + '</main>', page, count=1, flags=re.S)
+    page = re.sub(r'<main>.*?</main>', lambda _: '<main>' + ''.join(out) + viewer + '<script src="assets/animation-categories.js"></script></main>', page, count=1, flags=re.S)
     page = re.sub(r'<title>.*?</title>', '<title>Hand-crafted showcase · NFRP World</title>', page, count=1)
     (ROOT / 'showcase.html').write_text(page, encoding='utf-8')
     print('showcase.html:', n, 'clips,', len(groups), 'batches')

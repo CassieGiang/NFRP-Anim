@@ -27,11 +27,12 @@ def body():
             f'<figcaption><b>{E(c["label"])}</b>{("<small>" + E(c["tree"]) + (" · " + E(c["rank"]) + "-rank" if c.get("rank") else "") + "</small>") if c.get("tree") else ""}'
             f'{("<p>" + E(c["desc"]) + "</p>") if c.get("desc") else ""}</figcaption></figure>'
             for c in cs)
-        out.append(f'<h2 id="{gid}">{E(g)} <small>{len(cs)}</small></h2><div class="grid anims">{cards}</div>')
+        out.append(f'<details class="sec anim-category" id="{gid}"><summary><h2 class="st">{E(g)} <small>{len(cs)}</small></h2></summary><div class="body"><div class="grid anims">{cards}</div></div></details>')
     out.append('''<script>
 (function(){var vs=[].slice.call(document.querySelectorAll('figure.anim video'));
-var io='IntersectionObserver' in window?new IntersectionObserver(function(es){es.forEach(function(e){var v=e.target;if(e.isIntersecting){v.preload='auto';var p=v.play();if(p&&p.catch)p.catch(function(){});}else v.pause();});},{rootMargin:'200px'}):null;
-vs.forEach(function(v,i){if(io)io.observe(v);else{v.preload='auto';v.autoplay=true;}v.addEventListener('click',function(){open(i);});v.parentNode.querySelector('.big').addEventListener('click',function(){open(i);});});
+function visible(v){if(v.closest('figure').style.display==='none')return false;for(var d=v.closest('details');d;d=d.parentElement.closest('details'))if(!d.open||d.hidden)return false;return true;}
+var io='IntersectionObserver' in window?new IntersectionObserver(function(es){es.forEach(function(e){var v=e.target;if(e.isIntersecting&&visible(v)){v.preload='auto';var p=v.play();if(p&&p.catch)p.catch(function(){});}else v.pause();});},{rootMargin:'200px'}):null;
+vs.forEach(function(v,i){if(io)io.observe(v);v.addEventListener('click',function(){open(i);});v.parentNode.querySelector('.big').addEventListener('click',function(){open(i);});});
 var bx=document.createElement('div');bx.id='viewer';bx.hidden=true;bx.innerHTML='<div class="vbar"><b></b><button type="button" data-a="x" aria-label="Close">&#x2715;</button></div><video loop playsinline muted controls></video><p class="vd"></p><div class="vbtn"><button type="button" data-a="p">&#x2039; Prev</button><button type="button" data-a="s">Speed 1&times;</button><button type="button" data-a="f">Full screen</button><button type="button" data-a="n">Next &#x203A;</button></div>';document.body.appendChild(bx);
 var bv=bx.querySelector('video'),cur=-1,sp=[1,0.5,0.25],si=0;
 function vis(){return vs.filter(function(v){return v.closest('figure').style.display!=='none';});}
@@ -46,7 +47,7 @@ bv.addEventListener('ratechange',function(){});bv.addEventListener('loadedmetada
 document.addEventListener('keydown',function(e){if(bx.hidden)return;if(e.key==='Escape')close();else if(e.key==='ArrowRight')step(1);else if(e.key==='ArrowLeft')step(-1);});
 var tx=null;bv.addEventListener('touchstart',function(e){tx=e.touches[0].clientX;},{passive:true});bv.addEventListener('touchend',function(e){if(tx===null)return;var dx=e.changedTouches[0].clientX-tx;tx=null;if(Math.abs(dx)>60)step(dx<0?1:-1);},{passive:true});
 var q=document.getElementById('animq');if(q)q.addEventListener('input',function(){var s=q.value.trim().toLowerCase();document.querySelectorAll('figure.anim').forEach(function(f){f.style.display=!s||f.dataset.n.indexOf(s)>=0?'':'none';});});})();
-</script>''')
+</script><script src="assets/animation-categories.js"></script>''')
     return ''.join(out), m
 
 CSS = ('.grid.anims{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}'

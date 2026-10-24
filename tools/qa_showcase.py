@@ -80,7 +80,7 @@ def build(rnd, date, slug):
                          f'<figcaption><b>{E(label)}</b>' + (f'<small>{E(sub)}</small>' if sub else '') + (f'<p>{E(body_txt)}</p>' if body_txt else '') + '</figcaption></figure>')
         total += len(cards)
         toc.append(f'<a href="#{key}">{E(title)}</a>')
-        body.append(f'<h2 id="{key}">{E(title)} <small>{len(cards)}</small></h2><p>{E(lead)}</p><div class="grid anims">' + ''.join(cards) + '</div>')
+        body.append(f'<details class="sec anim-category" id="{key}"><summary><h2 class="st">{E(title)} <small>{len(cards)}</small></h2></summary><div class="body"><p>{E(lead)}</p><div class="grid anims">' + ''.join(cards) + '</div></div></details>')
 
     tab = f'Showcase QA {date[8:10].lstrip("0")} {["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"][int(date[5:7]) - 1]}'
     page_name = f'qa-{slug}.html'
@@ -92,7 +92,7 @@ def build(rnd, date, slug):
 
     shell = (ROOT / 'index.html').read_text(encoding='utf-8')
     viewer = re.search(r'<script>.*?</script>', shell, re.S).group(0)
-    page = re.sub(r'<main>.*?</main>', lambda _: '<main>' + ''.join(main) + viewer + '</main>', shell, count=1, flags=re.S)
+    page = re.sub(r'<main>.*?</main>', lambda _: '<main>' + ''.join(main) + viewer + '<script src="assets/animation-categories.js"></script></main>', shell, count=1, flags=re.S)
     page = re.sub(r'<title>.*?</title>', f'<title>{E(tab)} · NFRP World</title>', page, count=1)
     (ROOT / page_name).write_text(page, encoding='utf-8')
 

@@ -25,6 +25,7 @@ main{max-width:1100px;margin:0 auto;padding:22px 20px 70px}footer{max-width:1100
 .toolbar .count{color:var(--muted);font-size:.85rem}
 /* collapsible sections: an indigo scroll tab */
 details.sec{margin:14px 0;border:1px solid var(--line);border-radius:10px;background:var(--panel)}
+details.anim-category{scroll-margin-top:125px}
 details.sec>summary{list-style:none;cursor:pointer;display:flex;align-items:baseline;gap:10px;padding:12px 16px 12px 14px;border-left:5px solid var(--ai);border-radius:10px}
 details.sec>summary::-webkit-details-marker,details.card>summary::-webkit-details-marker{display:none}
 details.sec>summary .st{font-size:1.25rem;margin:0}details.sec>summary small{margin-left:0}
