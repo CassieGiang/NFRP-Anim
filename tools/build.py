@@ -5,6 +5,10 @@ HERE = os.path.dirname(os.path.abspath(__file__)); ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE); import animations
 b, m = animations.body()
 b = b.replace('src="anim/', 'src="clans-and-styles/').replace('poster="anim/', 'poster="clans-and-styles/')
+try:   # keep the tabs the other pages added (showcase, QA rounds)
+    nav = re.search(r'<nav>.*?</nav>', open(os.path.join(ROOT, 'index.html'), encoding='utf-8').read(), re.S).group(0)
+except Exception:
+    nav = '<nav><a href="index.html" class=on>Animations</a></nav>'
 doc = f'''<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Animations · NFRP World</title><meta name="description" content="Every hand-made technique animation in NFRP World, recorded in game.">
@@ -13,7 +17,7 @@ doc = f'''<!doctype html>
 <link rel="stylesheet" href="assets/style.css"><link rel="icon" href="assets/icon.png">
 </head><body>
 <header><div class="hin"><a class="brand" href="index.html"><img src="assets/icon.png" alt=""><span>NFRP World</span></a>
-<nav><a href="index.html" class=on>Animations</a></nav></div></header>
+{nav}</div></header>
 <main>{b}</main>
 <footer>NFRP World is a RimWorld mod by Cassie, an add-on for World of Naruto and Taran Magic Framework. The Kazeraikou clan was created by Marii from NFRP and is used with her permission.</footer>
 </body></html>'''

@@ -79,7 +79,7 @@ def build(cut, defs, date):
 
     shell = (ROOT / 'index.html').read_text(encoding='utf-8')
     viewer = re.search(r'<script>.*?</script>', shell, re.S).group(0)
-    nav = '<nav><a href="index.html">Animations</a><a href="showcase.html" class=on>Hand-crafted showcase</a></nav>'
+    nav = re.search(r'<nav>.*?</nav>', shell, re.S).group(0).replace(' class=on', '').replace('<a href="showcase.html">', '<a href="showcase.html" class=on>')   # keeps every tab
     page = re.sub(r'<nav>.*?</nav>', lambda _: nav, shell, count=1, flags=re.S)
     page = re.sub(r'<main>.*?</main>', lambda _: '<main>' + ''.join(out) + viewer + '</main>', page, count=1, flags=re.S)
     page = re.sub(r'<title>.*?</title>', '<title>Hand-crafted showcase · NFRP World</title>', page, count=1)
