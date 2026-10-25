@@ -11,7 +11,8 @@ TRIALS = [
    ('A2_current_lockedcore', 'A2 · Today\'s ball with its core locked', 'Same art, no new batch: frame 1\'s round body is copied into the other three, so only the flames move.'),
    ('B_loop8', 'B · New 8-frame loop, as painted', 'Batch 124: twice the frames, flames curl and embers peel away; the painter kept the core almost the same.'),
    ('C_loop8_lockedcore', 'C · New 8-frame loop, core locked', 'B with the core made exactly identical in all eight frames.'),
-   ('D_loop_dart_flash', 'D · Big ball at release, dart in flight, flash at contact', 'C for the first moment, then the small white-hot dart carries it, then the star flash and today\'s dome of fire.')]),
+   ('D_loop_dart_flash', 'D · Big ball at release, dart in flight, flash at contact', 'C for the first moment, then the small white-hot dart carries it, then the star flash and today\'s dome of fire.'),
+   ('E_sequence', 'E · Your pick (installed in u252)', 'Flame gathers in at the mouth while the ball swells, C\'s full fireball for the whole flight with today\'s swirling orange fire set inside its bright centre, D\'s star flash at contact, then the dome of fire.')]),
 ]
 def add_tab():
     for p in ROOT.glob('*.html'):
