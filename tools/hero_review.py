@@ -33,7 +33,8 @@ def build(cut, defs, date):
     folder = ROOT / 'hero-animations'
     if folder.exists(): shutil.rmtree(folder)
     folder.mkdir()
-    skipped = {s.split(':')[0][:-2] if s.split(':')[0].endswith('_1') else s.split(':')[0]: s for s in tl.get('skippedScenes', [])}
+    ss = tl.get('skippedScenes', []); ss = ss if isinstance(ss, list) else []
+    skipped = {s.split(':')[0][:-2] if s.split(':')[0].endswith('_1') else s.split(':')[0]: s for s in ss}
     clips = []
     for c in tl['clips']:
         stem = f"{c['index']:03d}"
@@ -57,8 +58,8 @@ def build(cut, defs, date):
     def card(c, overview=False):
         sub = 'Whole batch, as recorded' if overview else ' · '.join(x for x in (c['treeLabel'], (c['rank'] + '-rank') if c['rank'] else '') if x)
         body = c['desc'] if not overview else ''
-        if c.get('skipped'): body += (' ' if body else '') + '(Not filmed: the showcase could not cast it. ' + c['skipped'].rstrip('.') + '.)'
-        elif c.get('note'): body += (' ' if body else '') + '(Showcase note: the real cast did not start; this shows the animation layer only.)'
+        if c.get('skipped'): body += (' ' if body else '') + '(Showcase check: ' + c['skipped'].rstrip('.') + '.)'
+        elif c.get('verdict') in ('WARN', 'FAIL') and c.get('why'): body += (' ' if body else '') + '(Showcase check, ' + c['verdict'].lower() + ': ' + c['why'].split('  [')[0].rstrip('.') + '.)'
         pre = folder.name + '/'
         return (f'<figure class="anim" data-n="{E((c["label"]+" "+sub+" "+body).lower(), quote=True)}">'
                 f'<div class="vw"><video src="{pre}{c["file"]}" muted loop playsinline preload="none" poster="{pre}{c["poster"]}" aria-label="{E(c["label"], quote=True)}"></video>'
