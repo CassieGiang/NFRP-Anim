@@ -1,6 +1,7 @@
 // Comment boxes on the "Showcase: hero animations" tab: kept in this browser (localStorage), saved to one text file or copied.
 (function () {
-  var KEY = 'nfrp-notes:' + location.pathname, notes = {};
+  // each recorded run keeps its own comments (a new run starts with empty boxes; the old ones stay saved under their run)
+  var run = (document.getElementById('notesrun') || {}).dataset; var KEY = 'nfrp-notes:' + location.pathname + (run && run.run ? ':' + run.run : ''), notes = {};
   try { notes = JSON.parse(localStorage.getItem(KEY) || '{}') || {}; } catch (e) { notes = {}; }
   var boxes = Array.prototype.slice.call(document.querySelectorAll('textarea.cmt'));
   function count() { var n = 0; for (var k in notes) if (notes[k] && notes[k].trim()) n++; var c = document.getElementById('notecount'); if (c) c.textContent = n ? n + ' commented' : ''; }
@@ -11,7 +12,7 @@
     t.addEventListener('click', function (e) { e.stopPropagation(); });
   });
   function text() {
-    var out = ['NFRP World - Showcase: hero animations - comments', ''];
+    var out = ['NFRP World - Showcase: hero animations - comments' + (run && run.run ? ' (run ' + run.run + ')' : ''), ''];
     boxes.forEach(function (t) { var v = (notes[t.dataset.k] || '').trim(); if (v) out.push('#' + t.dataset.i + ' ' + t.dataset.l + ' [' + t.dataset.k + ']', '  ' + v.split('\n').join('\n  '), ''); });
     return out.join('\n');
   }

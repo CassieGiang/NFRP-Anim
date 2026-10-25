@@ -73,7 +73,7 @@ def build(cut, defs, date):
     out = ['<h1>Showcase: hero animations</h1>',
            f'<p class="lead">Every technique with a hand-made animation, cast for real in the showcase on {E(date)}: {n} techniques in {len(groups)} batches.</p>',
            '<p>Zoomed on the action. Tap a clip to open it large. Type a comment under any technique: it is kept in this browser, and the buttons save all your comments to one file or copy them.</p>',
-           '<div class="toolbar"><input type="search" placeholder="Filter techniques" aria-label="Filter animations" autocomplete="off" id="animq">'
+           f'<div class="toolbar" id="notesrun" data-run="{E(date, quote=True)}"><input type="search" placeholder="Filter techniques" aria-label="Filter animations" autocomplete="off" id="animq">'
            '<button type="button" id="notesave">Save comments to a file</button><button type="button" id="notecopy">Copy all comments</button><span id="notecount"></span></div>',
            '<div class="toc">' + ''.join(f'<a href="#batch-{i}">{E(name)}</a>' for i, (name, _, _) in enumerate(groups)) + '</div>']
     for i, (name, children, overview) in enumerate(groups):
