@@ -65,7 +65,8 @@ def build(cut, defs, date):
                 f'<div class="vw"><video src="{pre}{c["file"]}" muted loop playsinline preload="none" poster="{pre}{c["poster"]}" aria-label="{E(c["label"], quote=True)}"></video>'
                 '<button class="big" type="button" aria-label="Open large">&#x26F6;</button></div>'
                 f'<figcaption><b>{E(c["label"])}</b>' + (f'<small>{E(sub)}</small>' if sub else '') + (f'<p>{E(body)}</p>' if body else '')
-                + ('' if overview else f'<textarea class="cmt" data-k="{E(c.get("defName","") or c["file"], quote=True)}" data-l="{E(c["label"], quote=True)}" data-i="{c["index"]}" placeholder="Your comment on this technique (saved automatically)"></textarea>')
+                + ('' if overview else f'<textarea class="cmt" data-k="{E(c.get("defName","") or c["file"], quote=True)}" data-l="{E(c["label"], quote=True)}" data-i="{c["index"]}" placeholder="Your comment on this technique (saved automatically)"></textarea>'
+                                 '<div class="cmtbar"><button type="button" class="cmtsave">Save comments to a file</button><span class="cmtstate"></span></div>')
                 + '</figcaption></figure>')
 
     n = sum(len(g[1]) for g in groups)
