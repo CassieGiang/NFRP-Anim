@@ -17,7 +17,7 @@
     return out.join('\n');
   }
   var s = document.getElementById('notesave'), c = document.getElementById('notecopy');
-  function save() { var a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([text()], { type: 'text/plain' })); a.download = 'hero-animations-comments.txt'; document.body.appendChild(a); a.click(); a.remove(); }
+  function save() { var a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([text()], { type: 'text/plain' })); a.download = 'showcase-comments.txt'; document.body.appendChild(a); a.click(); a.remove(); }
   if (s) s.onclick = save;
   // a save button under every technique's box: saves all comments to one file, without scrolling back to the top
   Array.prototype.slice.call(document.querySelectorAll('button.cmtsave')).forEach(function (b) {

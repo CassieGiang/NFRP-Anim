@@ -63,13 +63,17 @@ def build(cut, defs, date):
         return (f'<figure class="anim" data-n="{E((c["label"]+" "+sub+" "+body).lower(), quote=True)}">'
                 f'<div class="vw"><video src="{pre}{c["file"]}" muted loop playsinline preload="none" poster="{pre}{c["poster"]}" aria-label="{E(c["label"], quote=True)}"></video>'
                 '<button class="big" type="button" aria-label="Open large">&#x26F6;</button></div>'
-                f'<figcaption><b>{E(c["label"])}</b>' + (f'<small>{E(sub)}</small>' if sub else '') + (f'<p>{E(body)}</p>' if body else '') + '</figcaption></figure>')
+                f'<figcaption><b>{E(c["label"])}</b>' + (f'<small>{E(sub)}</small>' if sub else '') + (f'<p>{E(body)}</p>' if body else '')
+                + ('' if overview else f'<textarea class="cmt" data-k="{E(c.get("defName","") or c["file"], quote=True)}" data-l="{E(c["label"], quote=True)}" data-i="{c.get("index","")}" placeholder="Your comment on this technique (saved automatically)"></textarea>'
+                                 '<div class="cmtbar"><button type="button" class="cmtsave">Save comments to a file</button><span class="cmtstate"></span></div>')
+                + '</figcaption></figure>')
 
     n = sum(len(g[1]) for g in groups)
     out = ['<h1>Hand-crafted showcase</h1>',
            f'<p class="lead">Every hand-made technique animation, recorded {E(date)} in the showcase: {n} techniques in {len(groups)} batches.</p>',
-           '<p>Recorded in slow motion (the showcase runs the game at 0.35x), zoomed on the action. Tap a clip to open it large.</p>',
-           '<div class="toolbar"><input type="search" placeholder="Filter hand-crafted animations" aria-label="Filter animations" autocomplete="off" id="animq"></div>',
+           '<p>Zoomed on the action. Tap a clip to open it large. Type a comment under any technique: it is kept in this browser, and the buttons save all your comments to one file or copy them.</p>',
+           f'<div class="toolbar" id="notesrun" data-run="{E(date, quote=True)}"><input type="search" placeholder="Filter hand-crafted animations" aria-label="Filter animations" autocomplete="off" id="animq">'
+           '<button type="button" id="notesave">Save comments to a file</button><button type="button" id="notecopy">Copy all comments</button><span id="notecount"></span></div>',
            '<div class="toc">' + ''.join(f'<a href="#batch-{i}">{E(name)}</a>' for i, (name, _, _) in enumerate(groups)) + '</div>']
     for i, (name, children, overview) in enumerate(groups):
         out.append(f'<details class="sec anim-category" id="batch-{i}"><summary><h2 class="st">{E(name)} <small>{len(children)}</small></h2></summary><div class="body"><div class="grid anims">')
@@ -82,7 +86,7 @@ def build(cut, defs, date):
     viewer = re.search(r'<script>.*?</script>', shell, re.S).group(0)
     nav = re.search(r'<nav>.*?</nav>', shell, re.S).group(0).replace(' class=on', '').replace('<a href="showcase.html">', '<a href="showcase.html" class=on>')   # keeps every tab
     page = re.sub(r'<nav>.*?</nav>', lambda _: nav, shell, count=1, flags=re.S)
-    page = re.sub(r'<main>.*?</main>', lambda _: '<main>' + ''.join(out) + viewer + '<script src="assets/animation-categories.js"></script></main>', page, count=1, flags=re.S)
+    page = re.sub(r'<main>.*?</main>', lambda _: '<main>' + ''.join(out) + viewer + '<script src="assets/animation-categories.js"></script><script src="assets/notes.js"></script></main>', page, count=1, flags=re.S)
     page = re.sub(r'<title>.*?</title>', '<title>Hand-crafted showcase · NFRP World</title>', page, count=1)
     (ROOT / 'showcase.html').write_text(page, encoding='utf-8')
     print('showcase.html:', n, 'clips,', len(groups), 'batches')
