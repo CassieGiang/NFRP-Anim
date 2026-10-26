@@ -1,0 +1,2898 @@
+{
+ "batches": {
+  "26": "Batch 26: burning legs",
+  "27": "Batch 27: the drawing blade",
+  "28": "Batch 28: three dragon stances",
+  "23": "Batch 23: ANBU: questioning and the mind",
+  "24": "Batch 24: masked guard, binds and burning",
+  "25": "Batch 25: masked guard, field craft",
+  "11": "Batch 11: insect swarms, lines and guards",
+  "12": "Batch 12: the great swarms",
+  "13": "Batch 13: hounds and partners",
+  "20": "Batch 20: ANBU tracking, lightning and silence",
+  "21": "Batch 21: ANBU echoes, earth, barriers and stealth",
+  "22": "Batch 22: ANBU field medicine and assassin's arts",
+  "8": "Batch 8: fire and the first stares",
+  "9": "Batch 9: great stares and the clear eye",
+  "10": "Batch 10: the gentle fist",
+  "17": "Batch 17: swelling bodies and heavy blows",
+  "18": "Batch 18: threads of the mind",
+  "19": "Batch 19: sharks and deep water",
+  "14": "Batch 14: bone armour, dances and bullets",
+  "15": "Batch 15: bone binds and the shadow's reach",
+  "16": "Batch 16: shadow binds, blades and dome",
+  "0": "Prototypes (polished)",
+  "1": "Batch 1: storm clouds and dragons",
+  "2": "Batch 2: lightning",
+  "3": "Batch 3: wind and guard",
+  "4": "Batch 4: body arts and blades",
+  "5": "Batch 5: legend blades and falling stars",
+  "6": "Batch 6: beasts and dragons",
+  "7": "Batch 7: sparrows, chakra dragon, enclosures"
+ },
+ "rows": [
+  {
+   "batch": 0,
+   "label": "Satetsu World Method",
+   "tiers": [
+    "NF_SatetsuWorld_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Earthspikes",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 0,
+   "label": "Forced Dimension",
+   "tiers": [
+    "NF_RanzForced_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple"
+   ]
+  },
+  {
+   "batch": 0,
+   "label": "Closed Dimension",
+   "tiers": [
+    "NF_RanzClosedDimension_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 0,
+   "label": "Saisokufūin",
+   "tiers": [
+    "NF_Arch_SealBarrier_Saisokufuin_1"
+   ],
+   "stock": [
+    "Paperscatter",
+    "Sealcircle",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 0,
+   "label": "Keiretsu Shingō",
+   "tiers": [
+    "NF_Legend_Clockwork_MaxLength_1"
+   ],
+   "stock": [
+    "Steelslash",
+    "Thruststab"
+   ]
+  },
+  {
+   "batch": 0,
+   "label": "Kibaō chakra cut",
+   "tiers": [
+    "NF_Legend_Kibaou_ChakraCut_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Crescentslash",
+    "Lifedrain",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 1,
+   "label": "Storm Cloud",
+   "tiers": [
+    "KZ_Cloud_One",
+    "KZ_Cloud_Two",
+    "KZ_Cloud_Three",
+    "KZ_Cloud_Four"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 1,
+   "label": "Cloud Bolt",
+   "tiers": [
+    "KZ_CloudBolt_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Thunderpillar"
+   ]
+  },
+  {
+   "batch": 1,
+   "label": "Storm Dragon",
+   "tiers": [
+    "KZ_CloudDragon_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 1,
+   "label": "Storm Spears",
+   "tiers": [
+    "KZ_StormSpear_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Thunderpillar"
+   ]
+  },
+  {
+   "batch": 1,
+   "label": "Kuchiyose: Kishinryuu",
+   "tiers": [
+    "KZ_Kishinryuu_1"
+   ],
+   "stock": [
+    "Roarring",
+    "Sealcircle",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 1,
+   "label": "Sansutomu no Kishinryuu",
+   "tiers": [
+    "KZ_MapStorm_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Thunderpillar"
+   ]
+  },
+  {
+   "batch": 1,
+   "label": "Weather Prediction",
+   "tiers": [
+    "KZ_Forecast_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 1,
+   "label": "Fear of the Dragon",
+   "tiers": [
+    "KZ_DragonFear_1"
+   ],
+   "stock": [
+    "Roarring",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 2,
+   "label": "Deep Strike",
+   "tiers": [
+    "KZ_UndergroundStrike_1"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Electricsparks",
+    "Thunderpillar"
+   ]
+  },
+  {
+   "batch": 2,
+   "label": "Thunderclap",
+   "tiers": [
+    "KZ_Thunderclap_1",
+    "KZ_Thunderclap_2"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 2,
+   "label": "Storm Arrow",
+   "tiers": [
+    "KZ_StormArrow_1",
+    "KZ_StormArrow_2",
+    "KZ_StormArrow_3"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 2,
+   "label": "Storm Bullets",
+   "tiers": [
+    "KZ_StormBullets_1",
+    "KZ_StormBullets_2"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst"
+   ]
+  },
+  {
+   "batch": 2,
+   "label": "Burnout",
+   "tiers": [
+    "KZ_Shingai_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Fireburst",
+    "Lightningburst",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 2,
+   "label": "Hijack",
+   "tiers": [
+    "KZ_DendouYousuru_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Fireburst",
+    "Lightningburst",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 2,
+   "label": "Dendou",
+   "tiers": [
+    "KZ_Dendou_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 3,
+   "label": "Storm Hammer",
+   "tiers": [
+    "KZ_Hammer_1"
+   ],
+   "stock": [
+    "Groundslam",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 3,
+   "label": "Cyclone",
+   "tiers": [
+    "KZ_Cyclone_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 3,
+   "label": "Lightning Hurricane",
+   "tiers": [
+    "KZ_Hurricane_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 3,
+   "label": "Lightning Leaf Storm",
+   "tiers": [
+    "KZ_LeafStorm_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 3,
+   "label": "Whirlwind Screen",
+   "tiers": [
+    "KZ_WindScreen_1",
+    "KZ_WindScreen_2"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Shockring",
+    "Spinring",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 3,
+   "label": "Storm Dome",
+   "tiers": [
+    "KZ_StormDome_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Shockring",
+    "Spinring",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 3,
+   "label": "Ambush Orbs",
+   "tiers": [
+    "KZ_Ambush_1"
+   ],
+   "stock": [
+    "Sealcircle",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 3,
+   "label": "Storm Clone",
+   "tiers": [
+    "KZ_StormClone_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst",
+    "Speedtrail"
+   ]
+  },
+  {
+   "batch": 4,
+   "label": "Ryuugan",
+   "tiers": [
+    "KZ_Ryuugan_1",
+    "KZ_Ryuugan_2",
+    "KZ_Ryuugan_3"
+   ],
+   "stock": [
+    "Gazespiral"
+   ]
+  },
+  {
+   "batch": 4,
+   "label": "Arashi no Kiero",
+   "tiers": [
+    "KZ_Tempest_C",
+    "KZ_Tempest_B",
+    "KZ_Tempest_A",
+    "KZ_Tempest_S"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Shellguard",
+    "Smokepuff",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 4,
+   "label": "Cloud Stepping",
+   "tiers": [
+    "KZ_CloudStep_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Shellguard",
+    "Smokepuff",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 4,
+   "label": "Storm Knight",
+   "tiers": [
+    "KZ_StormKnight_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Shellguard",
+    "Smokepuff",
+    "Windgust"
+   ]
+  },
+  {
+   "batch": 4,
+   "label": "Sword Dance",
+   "tiers": [
+    "KZ_SwordDance_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Steelslash",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 4,
+   "label": "Nine Swords Asura",
+   "tiers": [
+    "NF_Santoryu_Asura_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Steelslash",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 4,
+   "label": "Dragon Twister",
+   "tiers": [
+    "NF_Santoryu_Tornado_1"
+   ],
+   "stock": [
+    "Crescentslash"
+   ]
+  },
+  {
+   "batch": 4,
+   "label": "Tenkū Ryūsen",
+   "tiers": [
+    "NF_Arch_Busosen_HeavenFlash_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Steelslash",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 5,
+   "label": "Ryūtsui",
+   "tiers": [
+    "NF_Legend_Ryugeki_DragonHammer_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Fireburst",
+    "Impactflash"
+   ]
+  },
+  {
+   "batch": 5,
+   "label": "Ryūraisen",
+   "tiers": [
+    "NF_Legend_Ryugeki_DragonThunder_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 5,
+   "label": "Angetsu Retsu",
+   "tiers": [
+    "NF_Legend_Kibaou_DarkMoonRift_1"
+   ],
+   "stock": [
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 5,
+   "label": "Tetsu Rasetsu",
+   "tiers": [
+    "NF_Arch_Goutetsu_RagingDemon_1"
+   ],
+   "stock": [
+    "Punchburst"
+   ]
+  },
+  {
+   "batch": 5,
+   "label": "Nagareboshi",
+   "tiers": [
+    "NF_Legend_Hoshigiri_ShootingStar_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Fireburst",
+    "Impactflash"
+   ]
+  },
+  {
+   "batch": 5,
+   "label": "Starfall",
+   "tiers": [
+    "NF_Shape_Starfall_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Fireburst",
+    "Impactflash"
+   ]
+  },
+  {
+   "batch": 5,
+   "label": "Seigi no Hoshi",
+   "tiers": [
+    "NF_Arch_Riders_StarOfJustice_1"
+   ],
+   "stock": [
+    "Chakraflare"
+   ]
+  },
+  {
+   "batch": 5,
+   "label": "Ki Hōkiboshi",
+   "tiers": [
+    "NF_AnbuU_ChakraComet_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Fireburst",
+    "Impactflash"
+   ]
+  },
+  {
+   "batch": 6,
+   "label": "Phoenix",
+   "tiers": [
+    "NF_Phoenix_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 6,
+   "label": "King-Sized Rainbow Dragon",
+   "tiers": [
+    "NF_YokuRainbowDragon_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 6,
+   "label": "True Hydra",
+   "tiers": [
+    "NF_Fire_Hydra_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 6,
+   "label": "Megamouth Shark",
+   "tiers": [
+    "NF_Megamouth_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 6,
+   "label": "Crescent Dragons",
+   "tiers": [
+    "NF_Summon_Wangetsuryuu_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 6,
+   "label": "Rairyū no Ikari",
+   "tiers": [
+    "NF_Arch_Riders_ThunderDragon_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Lightningburst"
+   ]
+  },
+  {
+   "batch": 6,
+   "label": "Raging Bear",
+   "tiers": [
+    "NF_Arch_Kumotate_RagingBear_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 6,
+   "label": "Wolf Fusion",
+   "tiers": [
+    "NF_WolfFusion_1",
+    "NF_WolfFusion_2"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 7,
+   "label": "Kisuzume",
+   "tiers": [
+    "NF_Anbu_Sparrows_1"
+   ],
+   "stock": [
+    "Chakraflare"
+   ]
+  },
+  {
+   "batch": 7,
+   "label": "Ka-ryūsen",
+   "tiers": [
+    "NF_Kenseijin_GoseiAir_1"
+   ],
+   "stock": [
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 7,
+   "label": "Ryūsōsen",
+   "tiers": [
+    "NF_Kenseijin_GoseiNest_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 7,
+   "label": "Ryusen",
+   "tiers": [
+    "NF_Kenseijin_GoseiRift_1"
+   ],
+   "stock": [
+    "Crescentslash"
+   ]
+  },
+  {
+   "batch": 7,
+   "label": "Tree Tomb",
+   "tiers": [
+    "NF_Wood_TreeTomb_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Leafswirl",
+    "Woodspikes"
+   ]
+  },
+  {
+   "batch": 7,
+   "label": "Bedrock Coffin",
+   "tiers": [
+    "NF_Earth_Coffin_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Groundslam"
+   ]
+  },
+  {
+   "batch": 7,
+   "label": "Sand Coffin",
+   "tiers": [
+    "NF_Sand_Coffin_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Sandburst"
+   ]
+  },
+  {
+   "batch": 7,
+   "label": "Imperial Funeral",
+   "tiers": [
+    "NF_Sand_Imperial_1"
+   ],
+   "stock": [
+    "Sandburst"
+   ]
+  },
+  {
+   "batch": 7,
+   "label": "Black Drizzle",
+   "tiers": [
+    "NF_BlackDrizzle_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 7,
+   "label": "Stalagmite Forest",
+   "tiers": [
+    "NF_Earth_Stalagmites_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Earthspikes"
+   ]
+  },
+  {
+   "batch": 2,
+   "label": "Dragon Breath",
+   "tiers": [
+    "KZ_DragonBreath_1",
+    "KZ_DragonBreath_2"
+   ],
+   "stock": [
+    "BreathLightning",
+    "Electricsparks",
+    "Lightningburst"
+   ]
+  },
+  {
+   "batch": 11,
+   "label": "Bug Projection",
+   "tiers": [
+    "NF_BugProjection_1",
+    "NF_BugProjection_2"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Dustdebris"
+   ]
+  },
+  {
+   "batch": 11,
+   "label": "Bug Shield",
+   "tiers": [
+    "NF_BugShield_1"
+   ],
+   "stock": [
+    "Bugswarm"
+   ]
+  },
+  {
+   "batch": 11,
+   "label": "Bug Grappling",
+   "tiers": [
+    "NF_BugGrapple_1",
+    "NF_BugGrapple_2"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Dustdebris"
+   ]
+  },
+  {
+   "batch": 11,
+   "label": "Poison Reduction",
+   "tiers": [
+    "NF_Antitoxins_1"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Healingglow"
+   ]
+  },
+  {
+   "batch": 11,
+   "label": "Armour of Bugs",
+   "tiers": [
+    "NF_BugArmor_1"
+   ],
+   "stock": [
+    "Bugswarm"
+   ]
+  },
+  {
+   "batch": 11,
+   "label": "Blinding Bug Burst",
+   "tiers": [
+    "NF_BlindingBurst_1"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Groundslam"
+   ]
+  },
+  {
+   "batch": 11,
+   "label": "Bug Wall",
+   "tiers": [
+    "NF_BugWall_1"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Groundslam"
+   ]
+  },
+  {
+   "batch": 11,
+   "label": "Bug Rain",
+   "tiers": [
+    "NF_BugRain_1"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Groundslam"
+   ]
+  },
+  {
+   "batch": 12,
+   "label": "Bug Prison",
+   "tiers": [
+    "NF_BugPrison_1",
+    "NF_BugPrison_2"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Dustdebris"
+   ]
+  },
+  {
+   "batch": 12,
+   "label": "Hidden Bug Dragon",
+   "tiers": [
+    "NF_BugDragon_One",
+    "NF_BugDragon_Two",
+    "NF_BugDragon_Three"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Dustdebris"
+   ]
+  },
+  {
+   "batch": 12,
+   "label": "Bug Mist",
+   "tiers": [
+    "NF_BugMist_1"
+   ],
+   "stock": [
+    "Bugswarm"
+   ]
+  },
+  {
+   "batch": 12,
+   "label": "Bug Vortex",
+   "tiers": [
+    "NF_BugVortex_1"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Groundslam"
+   ]
+  },
+  {
+   "batch": 12,
+   "label": "Grand Bug Wave",
+   "tiers": [
+    "NF_GrandBugWave_1"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Dustdebris"
+   ]
+  },
+  {
+   "batch": 12,
+   "label": "Bug Wasteland",
+   "tiers": [
+    "NF_BugWasteland_1"
+   ],
+   "stock": [
+    "Bugswarm",
+    "Groundslam"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Canine Bond",
+   "tiers": [
+    "NF_CanineBond_1"
+   ],
+   "stock": [
+    "Healingglow"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Keen Senses",
+   "tiers": [
+    "NF_KeenSenses_1"
+   ],
+   "stock": [
+    "Gazespiral"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Four Legs Technique",
+   "tiers": [
+    "NF_FourLegs_1",
+    "NF_FourLegs_2"
+   ],
+   "stock": [
+    "Clawrake",
+    "Dustdebris"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Piercing Fang",
+   "tiers": [
+    "NF_PiercingFang_1",
+    "NF_PiercingFang_2",
+    "NF_PiercingFang_3",
+    "NF_PiercingFang_4"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Clawrake",
+    "Dustdebris",
+    "Groundslam",
+    "Spinring"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Pack Tactics",
+   "tiers": [
+    "NF_PackTactics_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Clawrake",
+    "Howlwave",
+    "Roarring"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Hound of the Baskervilles",
+   "tiers": [
+    "NF_HoundRage_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Clawrake",
+    "Howlwave",
+    "Roarring"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Fearful Howl",
+   "tiers": [
+    "NF_FearfulHowl_1"
+   ],
+   "stock": [
+    "Genripple",
+    "Howlwave",
+    "Roarring"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Paralysis Bite",
+   "tiers": [
+    "NF_ParalysisBite_1"
+   ],
+   "stock": [
+    "Bitechomp",
+    "Electricsparks"
+   ]
+  },
+  {
+   "batch": 13,
+   "label": "Veterinarian",
+   "tiers": [
+    "NF_Veterinarian_1"
+   ],
+   "stock": [
+    "Healbloom"
+   ]
+  },
+  {
+   "batch": 17,
+   "label": "Bubun Baika: Partial Expansion",
+   "tiers": [
+    "NF_PartialExpansion_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst"
+   ]
+  },
+  {
+   "batch": 17,
+   "label": "Baika no Jutsu: Expansion",
+   "tiers": [
+    "NF_Expansion_1",
+    "NF_Expansion_2",
+    "NF_Expansion_3"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Dustdebris",
+    "Groundslam",
+    "Healingglow",
+    "Shellguard"
+   ]
+  },
+  {
+   "batch": 17,
+   "label": "Nikudan Sensha: Human Bullet Tank",
+   "tiers": [
+    "NF_HumanBulletTank_1",
+    "NF_HumanBulletTank_2"
+   ],
+   "stock": [
+    "Earthspikes",
+    "Impactflash",
+    "Punchburst",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 17,
+   "label": "Calorie Control",
+   "tiers": [
+    "NF_CalorieControl_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Dustdebris",
+    "Groundslam",
+    "Healingglow",
+    "Shellguard"
+   ]
+  },
+  {
+   "batch": 17,
+   "label": "Ironguts",
+   "tiers": [
+    "NF_Ironguts_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Dustdebris",
+    "Groundslam",
+    "Healingglow",
+    "Shellguard"
+   ]
+  },
+  {
+   "batch": 17,
+   "label": "Chōbaika: Mega Palm Thrust",
+   "tiers": [
+    "NF_MegaPalm_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst"
+   ]
+  },
+  {
+   "batch": 17,
+   "label": "Chō Mode: Butterfly Mode",
+   "tiers": [
+    "NF_ButterflyMode_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Dustdebris",
+    "Groundslam",
+    "Healingglow",
+    "Shellguard"
+   ]
+  },
+  {
+   "batch": 17,
+   "label": "Impact Wave",
+   "tiers": [
+    "NF_ImpactWave_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Mind Pulse",
+   "tiers": [
+    "NF_MindPulse_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Confusion",
+   "tiers": [
+    "NF_Confusion_1"
+   ],
+   "stock": [
+    "Crystalshatter",
+    "Gazespiral",
+    "Genripple",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Mind Imprisonment",
+   "tiers": [
+    "NF_MindImprisonment_1"
+   ],
+   "stock": [
+    "Crystalshatter",
+    "Gazespiral",
+    "Genripple",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Broken Mind",
+   "tiers": [
+    "NF_BrokenMind_1"
+   ],
+   "stock": [
+    "Crystalshatter",
+    "Gazespiral",
+    "Genripple",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Shinranshin no Jutsu: Mind Body Disturbance",
+   "tiers": [
+    "NF_MindDisturbance_1"
+   ],
+   "stock": [
+    "Crystalshatter",
+    "Gazespiral",
+    "Genripple",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Shintenshin no Jutsu: Mind Body Switch",
+   "tiers": [
+    "NF_MindTransfer_1"
+   ],
+   "stock": [
+    "Crystalshatter",
+    "Gazespiral",
+    "Genripple",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Kontanribon no Jutsu: Mind Ribbon",
+   "tiers": [
+    "NF_MindRibbon_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Omoitobikomi no Jutsu: Mind Dive",
+   "tiers": [
+    "NF_MindDive_1"
+   ],
+   "stock": [
+    "Crystalshatter",
+    "Gazespiral",
+    "Genripple",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Omoi Dōran Odori: Mind Disturbance Dance",
+   "tiers": [
+    "NF_DisturbanceDance_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 18,
+   "label": "Dancing Minds",
+   "tiers": [
+    "NF_DancingMinds_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 19,
+   "label": "Samehada: Shark Skin",
+   "tiers": [
+    "NF_SharkSkin_1"
+   ],
+   "stock": [
+    "Shellguard",
+    "Watercrash",
+    "Waterdragon",
+    "Watersplash"
+   ]
+  },
+  {
+   "batch": 19,
+   "label": "Suikōdan: Water Shark Bullet",
+   "tiers": [
+    "NF_WaterShark_1",
+    "NF_WaterShark_2",
+    "NF_WaterShark_3"
+   ],
+   "stock": [
+    "Bitechomp",
+    "Watercrash",
+    "Watersplash"
+   ]
+  },
+  {
+   "batch": 19,
+   "label": "Suiton: Bakurai: Depth Charge",
+   "tiers": [
+    "NF_DepthCharge_1"
+   ],
+   "stock": [
+    "Shellguard",
+    "Watercrash",
+    "Waterdragon",
+    "Watersplash"
+   ]
+  },
+  {
+   "batch": 19,
+   "label": "Samekabe: Shark Wall",
+   "tiers": [
+    "NF_SharkWall_1"
+   ],
+   "stock": [
+    "Bitechomp",
+    "Shellguard",
+    "Watersplash"
+   ]
+  },
+  {
+   "batch": 19,
+   "label": "Chi Kaori: Blood Scent",
+   "tiers": [
+    "NF_BloodScent_1"
+   ],
+   "stock": [
+    "Bitechomp",
+    "Watercrash",
+    "Watersplash"
+   ]
+  },
+  {
+   "batch": 19,
+   "label": "Suiton: Satsugai Naiō: Killing Depths",
+   "tiers": [
+    "NF_KillingDepths_1"
+   ],
+   "stock": [
+    "Shellguard",
+    "Watercrash",
+    "Waterdragon",
+    "Watersplash"
+   ]
+  },
+  {
+   "batch": 19,
+   "label": "Same Kyōran: Shark Frenzy",
+   "tiers": [
+    "NF_SharkFrenzy_1"
+   ],
+   "stock": [
+    "Bitechomp",
+    "Shellguard",
+    "Watersplash"
+   ]
+  },
+  {
+   "batch": 20,
+   "label": "Doken Tsuiseki",
+   "tiers": [
+    "NF_Anbu_Hounds_1"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Dustdebris",
+    "Genripple",
+    "Pressurepoint",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 20,
+   "label": "Chiato",
+   "tiers": [
+    "NF_Anbu_BloodTrail_1"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Dustdebris",
+    "Genripple",
+    "Pressurepoint",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 20,
+   "label": "Kowadori",
+   "tiers": [
+    "NF_Anbu_VoiceCapture_1"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Dustdebris",
+    "Genripple",
+    "Pressurepoint",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 20,
+   "label": "Raihō",
+   "tiers": [
+    "NF_Anbu_ThunderCannon_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst",
+    "Shockring",
+    "Thunderpillar"
+   ]
+  },
+  {
+   "batch": 20,
+   "label": "Rairō",
+   "tiers": [
+    "NF_Anbu_LightningCage_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst",
+    "Shockring",
+    "Thunderpillar"
+   ]
+  },
+  {
+   "batch": 20,
+   "label": "Seihaku Rai",
+   "tiers": [
+    "NF_Anbu_PaleBolt_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst",
+    "Shockring",
+    "Thunderpillar"
+   ]
+  },
+  {
+   "batch": 20,
+   "label": "Seijaku no Maru",
+   "tiers": [
+    "NF_Anbu_SilenceDome_1"
+   ],
+   "stock": [
+    "Genripple",
+    "Smokepuff",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 20,
+   "label": "Otomaku",
+   "tiers": [
+    "NF_Anbu_SoundVeil_1"
+   ],
+   "stock": [
+    "Genripple",
+    "Smokepuff",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 21,
+   "label": "Kodama Obiki",
+   "tiers": [
+    "NF_Anbu_EchoLure_1"
+   ],
+   "stock": [
+    "Genripple",
+    "Smokepuff",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 21,
+   "label": "Jishinken",
+   "tiers": [
+    "NF_Anbu_Quake_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Groundslam",
+    "Sealcircle",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 21,
+   "label": "Kijishaku Wana",
+   "tiers": [
+    "NF_Anbu_MagnetTrap_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Groundslam",
+    "Sealcircle",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 21,
+   "label": "Kitoride",
+   "tiers": [
+    "NF_Anbu_Bulwark_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Palmwave",
+    "Shellguard",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 21,
+   "label": "Sōheki",
+   "tiers": [
+    "NF_Anbu_TwinBarrier_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Palmwave",
+    "Shellguard",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 21,
+   "label": "Kakure Ashi",
+   "tiers": [
+    "NF_Anbu_UnseenStep_1"
+   ],
+   "stock": [
+    "Genripple",
+    "Smokepuff",
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 21,
+   "label": "Senbon Sōsa",
+   "tiers": [
+    "NF_Anbu_Senbon_1"
+   ],
+   "stock": [
+    "Pressurepoint",
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 21,
+   "label": "Wana Kakushi",
+   "tiers": [
+    "NF_Anbu_TrapConceal_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Groundslam",
+    "Sealcircle",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 22,
+   "label": "Yakusō no Chie",
+   "tiers": [
+    "NF_Anbu_HerbalLore_1"
+   ],
+   "stock": [
+    "Healbloom",
+    "Healingglow",
+    "Leafswirl"
+   ]
+  },
+  {
+   "batch": 22,
+   "label": "Iyashi no Ki",
+   "tiers": [
+    "NF_Anbu_HealAura_1",
+    "NF_Anbu_HealAura_2"
+   ],
+   "stock": [
+    "Healbloom",
+    "Healingglow",
+    "Leafswirl"
+   ]
+  },
+  {
+   "batch": 22,
+   "label": "Mamori no Ki",
+   "tiers": [
+    "NF_Anbu_ProtectAura_1",
+    "NF_Anbu_ProtectAura_2"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Palmwave",
+    "Shellguard",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 22,
+   "label": "Dokuyoke",
+   "tiers": [
+    "NF_Anbu_PoisonWard_1",
+    "NF_Anbu_PoisonWard_2"
+   ],
+   "stock": [
+    "Healbloom",
+    "Healingglow",
+    "Leafswirl"
+   ]
+  },
+  {
+   "batch": 22,
+   "label": "Kanzen Yōkai",
+   "tiers": [
+    "NF_Anbu_Meltdown_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Pressurepoint"
+   ]
+  },
+  {
+   "batch": 22,
+   "label": "Fūmin",
+   "tiers": [
+    "NF_Anbu_ConfinedSleep_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Pressurepoint"
+   ]
+  },
+  {
+   "batch": 22,
+   "label": "Kekkai Kurai no Honō",
+   "tiers": [
+    "NF_Anbu_EatingFlames_1"
+   ],
+   "stock": [
+    "Shadowburst",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 22,
+   "label": "Shinkeitō",
+   "tiers": [
+    "NF_Anbu_NerveBlade_1"
+   ],
+   "stock": [
+    "Pressurepoint",
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 23,
+   "label": "Shōgeki no Shinjitsu",
+   "tiers": [
+    "NF_Anbu_ShockingTruth_1",
+    "NF_Anbu_ShockingTruth_2",
+    "NF_Anbu_ShockingTruth_3"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst"
+   ]
+  },
+  {
+   "batch": 23,
+   "label": "Shinshō",
+   "tiers": [
+    "NF_AnbuU_StunPalm_1"
+   ],
+   "stock": [
+    "Electricsparks",
+    "Lightningburst"
+   ]
+  },
+  {
+   "batch": 23,
+   "label": "Dokushin",
+   "tiers": [
+    "NF_Anbu_MindReading_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Healingglow"
+   ]
+  },
+  {
+   "batch": 23,
+   "label": "Kioku Keshi",
+   "tiers": [
+    "NF_AnbuU_Amnesia_1",
+    "NF_AnbuU_Amnesia_2",
+    "NF_AnbuU_Amnesia_3"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Healingglow"
+   ]
+  },
+  {
+   "batch": 23,
+   "label": "Noroi Ningyō",
+   "tiers": [
+    "NF_AnbuU_CurseDoll_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Healingglow"
+   ]
+  },
+  {
+   "batch": 23,
+   "label": "Kanashibari",
+   "tiers": [
+    "NF_AnbuU_Paralysis_1"
+   ],
+   "stock": [
+    "Gazespiral",
+    "Genripple",
+    "Healingglow"
+   ]
+  },
+  {
+   "batch": 23,
+   "label": "Kyōonpa",
+   "tiers": [
+    "NF_AnbuU_SoundWave_1"
+   ],
+   "stock": [
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 23,
+   "label": "Kan'on",
+   "tiers": [
+    "NF_AnbuU_ShrillTone_1"
+   ],
+   "stock": [
+    "Soundwave"
+   ]
+  },
+  {
+   "batch": 24,
+   "label": "Kinawa Shibari",
+   "tiers": [
+    "NF_AnbuU_Rope_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Lifedrain",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 24,
+   "label": "Bōkyaku no Ori",
+   "tiers": [
+    "NF_AnbuU_Cage_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Lifedrain",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 24,
+   "label": "Kitejō",
+   "tiers": [
+    "NF_AnbuU_ChakraCuffs_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Lifedrain",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 24,
+   "label": "Guren Kadama",
+   "tiers": [
+    "NF_AnbuU_Fireball_1",
+    "NF_AnbuU_Fireball_2",
+    "NF_AnbuU_Fireball_3",
+    "NF_AnbuU_Fireball_4"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Fireburst"
+   ]
+  },
+  {
+   "batch": 24,
+   "label": "Sōao Hōkiboshi",
+   "tiers": [
+    "NF_AnbuU_TwinComets_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Fireburst"
+   ]
+  },
+  {
+   "batch": 24,
+   "label": "Yōkai Kiri",
+   "tiers": [
+    "NF_AnbuU_DissolvingMist_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Shellguard",
+    "Smokeburst"
+   ]
+  },
+  {
+   "batch": 24,
+   "label": "Shitai Shobun",
+   "tiers": [
+    "NF_AnbuU_Disposal_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Shellguard",
+    "Smokeburst"
+   ]
+  },
+  {
+   "batch": 24,
+   "label": "Shitai Hozon",
+   "tiers": [
+    "NF_AnbuU_Conservation_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Shellguard",
+    "Smokeburst"
+   ]
+  },
+  {
+   "batch": 25,
+   "label": "Kanpeki Nage",
+   "tiers": [
+    "NF_AnbuU_PerfectThrow_1"
+   ],
+   "stock": [
+    "Pressurepoint",
+    "Sealcircle",
+    "Shadowburst",
+    "Shockring",
+    "Smokeburst",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 25,
+   "label": "Tsuiseki no Jutsu",
+   "tiers": [
+    "NF_AnbuU_Tracking_1"
+   ],
+   "stock": [
+    "Pressurepoint",
+    "Sealcircle",
+    "Shadowburst",
+    "Shockring",
+    "Smokeburst",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 25,
+   "label": "Don the Mask",
+   "tiers": [
+    "NF_ANBU_Mask_1"
+   ],
+   "stock": [
+    "Pressurepoint",
+    "Sealcircle",
+    "Shadowburst",
+    "Shockring",
+    "Smokeburst",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 25,
+   "label": "Smoke Escape",
+   "tiers": [
+    "NF_ANBU_Smoke_1"
+   ],
+   "stock": [
+    "Pressurepoint",
+    "Sealcircle",
+    "Shadowburst",
+    "Shockring",
+    "Smokeburst",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 25,
+   "label": "Shadow Stealth",
+   "tiers": [
+    "NF_ANBU_Stealth_1"
+   ],
+   "stock": [
+    "Pressurepoint",
+    "Sealcircle",
+    "Shadowburst",
+    "Shockring",
+    "Smokeburst",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 25,
+   "label": "Shadow Squad",
+   "tiers": [
+    "NF_ANBU_Squad_1"
+   ],
+   "stock": [
+    "Pressurepoint",
+    "Sealcircle",
+    "Shadowburst",
+    "Shockring",
+    "Smokeburst",
+    "Smokepuff"
+   ]
+  },
+  {
+   "batch": 25,
+   "label": "Tanto Flash",
+   "tiers": [
+    "NF_ANBU_Tanto_1"
+   ],
+   "stock": [
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 25,
+   "label": "Silent Kill",
+   "tiers": [
+    "NF_ANBU_Silent_1"
+   ],
+   "stock": [
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 14,
+   "label": "Bone Armour",
+   "tiers": [
+    "NF_BoneArmor_1",
+    "NF_BoneArmor_2",
+    "NF_BoneArmor_3",
+    "NF_BoneArmor_4"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Dustdebris",
+    "Earthspikes",
+    "Groundslam",
+    "Healbloom",
+    "Healingglow",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 14,
+   "label": "Dance of the Larch",
+   "tiers": [
+    "NF_DanceLarch_1"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Dustdebris",
+    "Earthspikes",
+    "Groundslam",
+    "Healbloom",
+    "Healingglow",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 14,
+   "label": "Dance of the Clematis",
+   "tiers": [
+    "NF_DanceClematis_1"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Dustdebris",
+    "Earthspikes",
+    "Groundslam",
+    "Healbloom",
+    "Healingglow",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 14,
+   "label": "Deathless",
+   "tiers": [
+    "NF_Deathless_1"
+   ],
+   "stock": [
+    "Burrowerupt",
+    "Dustdebris",
+    "Earthspikes",
+    "Groundslam",
+    "Healbloom",
+    "Healingglow",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 14,
+   "label": "Ten Finger Bullets",
+   "tiers": [
+    "NF_FingerBullets_1",
+    "NF_FingerBullets_2"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 14,
+   "label": "Bone Shards",
+   "tiers": [
+    "NF_BoneShards_1",
+    "NF_BoneShards_2"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Earthspikes",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 15,
+   "label": "Bone's Vengeful Grasp",
+   "tiers": [
+    "NF_VengefulGrasp_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Earthspikes",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 15,
+   "label": "Stillbone",
+   "tiers": [
+    "NF_Stillbone_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 15,
+   "label": "Bone Cage",
+   "tiers": [
+    "NF_BoneCage_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Earthspikes",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 15,
+   "label": "Osteophage",
+   "tiers": [
+    "NF_Osteophage_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 15,
+   "label": "Dance of the Seedling Ferns",
+   "tiers": [
+    "NF_SeedlingFerns_1"
+   ],
+   "stock": [
+    "Dustdebris",
+    "Earthspikes",
+    "Quillburst"
+   ]
+  },
+  {
+   "batch": 15,
+   "label": "Shadow Imitation",
+   "tiers": [
+    "NF_ShadowImitation_1",
+    "NF_ShadowImitation_2",
+    "NF_ShadowImitation_3"
+   ],
+   "stock": [
+    "BreathShadow",
+    "Gazespiral",
+    "Punchburst",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 15,
+   "label": "Shadow Strike",
+   "tiers": [
+    "NF_ShadowStrike_1"
+   ],
+   "stock": [
+    "BreathShadow",
+    "Gazespiral",
+    "Punchburst",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 16,
+   "label": "Shadow Neck Bind",
+   "tiers": [
+    "NF_ShadowNeckBind_1"
+   ],
+   "stock": [
+    "BreathShadow",
+    "Gazespiral",
+    "Punchburst",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 16,
+   "label": "Shadow Entrapment",
+   "tiers": [
+    "NF_ShadowEntrapment_1"
+   ],
+   "stock": [
+    "BreathShadow",
+    "Gazespiral",
+    "Punchburst",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 16,
+   "label": "Shadow Blast",
+   "tiers": [
+    "NF_ShadowBlast_1",
+    "NF_ShadowBlast_2"
+   ],
+   "stock": [
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 16,
+   "label": "Shadow Envelop",
+   "tiers": [
+    "NF_ShadowEnvelop_1"
+   ],
+   "stock": [
+    "BreathShadow",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 16,
+   "label": "Shadow Sewing",
+   "tiers": [
+    "NF_ShadowSewing_1"
+   ],
+   "stock": [
+    "Senbonvolley"
+   ]
+  },
+  {
+   "batch": 16,
+   "label": "Shadow Dome",
+   "tiers": [
+    "NF_ShadowDome_1"
+   ],
+   "stock": [
+    "Shellguard"
+   ]
+  },
+  {
+   "batch": 16,
+   "label": "Shadow Endgame",
+   "tiers": [
+    "NF_ShadowEndgame_1"
+   ],
+   "stock": [
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 26,
+   "label": "Burning Legs",
+   "tiers": [
+    "NF_RedLeg_Leg_1"
+   ],
+   "stock": [
+    "Fireburst",
+    "Flamekick",
+    "Flamepillar",
+    "Spinkick"
+   ]
+  },
+  {
+   "batch": 26,
+   "label": "Searing Shin",
+   "tiers": [
+    "NF_RedLeg_Shin_1"
+   ],
+   "stock": [
+    "Fireburst",
+    "Flamekick",
+    "Flamepillar",
+    "Spinkick"
+   ]
+  },
+  {
+   "batch": 26,
+   "label": "Flaming Axe Kick",
+   "tiers": [
+    "NF_RedLeg_Axe_1"
+   ],
+   "stock": [
+    "Fireburst",
+    "Flamekick",
+    "Flamepillar",
+    "Spinkick"
+   ]
+  },
+  {
+   "batch": 26,
+   "label": "Burning Sky Step",
+   "tiers": [
+    "NF_RedLeg_Skywalk_1"
+   ],
+   "stock": [
+    "Fireburst",
+    "Flamekick",
+    "Flamepillar",
+    "Spinkick"
+   ]
+  },
+  {
+   "batch": 26,
+   "label": "Burning Whirl",
+   "tiers": [
+    "NF_RedLeg_Whirl_1"
+   ],
+   "stock": [
+    "Fireburst",
+    "Flamekick",
+    "Flamepillar",
+    "Spinkick"
+   ]
+  },
+  {
+   "batch": 26,
+   "label": "Crimson Inferno Kick",
+   "tiers": [
+    "NF_RedLeg_Inferno_1"
+   ],
+   "stock": [
+    "Fireburst",
+    "Flamekick",
+    "Flamepillar",
+    "Spinkick"
+   ]
+  },
+  {
+   "batch": 27,
+   "label": "Battōjutsu",
+   "tiers": [
+    "NF_Arch_Busosen_Draw_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Electricsparks",
+    "Fireburst",
+    "Lightningburst",
+    "Shadowburst",
+    "Spinkick",
+    "Spinring",
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 27,
+   "label": "Hanabira Surasshu",
+   "tiers": [
+    "NF_Arch_Busosen_PetalSlash_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Electricsparks",
+    "Fireburst",
+    "Lightningburst",
+    "Shadowburst",
+    "Spinkick",
+    "Spinring",
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 27,
+   "label": "Kagenui",
+   "tiers": [
+    "NF_Arch_Busosen_ShadowStitch_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Electricsparks",
+    "Fireburst",
+    "Lightningburst",
+    "Shadowburst",
+    "Spinkick",
+    "Spinring",
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 27,
+   "label": "Shidensen",
+   "tiers": [
+    "NF_Arch_Busosen_PurpleFlash_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Electricsparks",
+    "Fireburst",
+    "Lightningburst",
+    "Shadowburst",
+    "Spinkick",
+    "Spinring",
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 27,
+   "label": "Sakura Tsuisutā",
+   "tiers": [
+    "NF_Arch_Busosen_SakuraTwister_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Electricsparks",
+    "Fireburst",
+    "Lightningburst",
+    "Shadowburst",
+    "Spinkick",
+    "Spinring",
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 27,
+   "label": "Fureā",
+   "tiers": [
+    "NF_Arch_Busosen_Flare_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Electricsparks",
+    "Fireburst",
+    "Lightningburst",
+    "Shadowburst",
+    "Spinkick",
+    "Spinring",
+    "Steelslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Wisdom Dragon Stance",
+   "tiers": [
+    "NF_Kenseijin_StanceGosei_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Courage Dragon Stance",
+   "tiers": [
+    "NF_Kenseijin_StanceGenkai_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Power Dragon Stance",
+   "tiers": [
+    "NF_Kenseijin_StanceTsuyosa_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Jinsokugeiru",
+   "tiers": [
+    "NF_Kenseijin_GenkaiGale_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Herumukatsu",
+   "tiers": [
+    "NF_Kenseijin_GenkaiCrown_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Issen",
+   "tiers": [
+    "NF_Kenseijin_GenkaiIssen_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Gufuukakou",
+   "tiers": [
+    "NF_Kenseijin_TsuyosaDrop_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Kaisoku",
+   "tiers": [
+    "NF_Kenseijin_TsuyosaDisarm_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 28,
+   "label": "Nijuu no Kiwami",
+   "tiers": [
+    "NF_Kenseijin_TsuyosaTwofold_1"
+   ],
+   "stock": [
+    "Crescentslash",
+    "Dustdebris",
+    "Groundslam",
+    "Impactflash",
+    "Punchburst",
+    "Sealcircle",
+    "Smokepuff",
+    "Spinring",
+    "Steelslash",
+    "Windcrescent",
+    "Windgust",
+    "Windslash"
+   ]
+  },
+  {
+   "batch": 8,
+   "label": "Katon: Great Fireball",
+   "tiers": [
+    "NF_GreatFireball_1",
+    "NF_GreatFireball_2"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 8,
+   "label": "Katon: Great Fire Annihilation",
+   "tiers": [
+    "NF_FireAnnihilation_1"
+   ],
+   "stock": []
+  },
+  {
+   "batch": 8,
+   "label": "Battle Ready",
+   "tiers": [
+    "NF_BattleReady_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Gazespiral"
+   ]
+  },
+  {
+   "batch": 8,
+   "label": "Mirror Heaven and Earth Change",
+   "tiers": [
+    "NF_Mirror_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 8,
+   "label": "Painful Stare",
+   "tiers": [
+    "NF_PainfulStare_1"
+   ],
+   "stock": [
+    "Flamepillar",
+    "Gazespiral",
+    "Genripple",
+    "Lifedrain",
+    "Sealcircle",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 8,
+   "label": "Shackling Stakes",
+   "tiers": [
+    "NF_ShacklingStakes_1"
+   ],
+   "stock": [
+    "Flamepillar",
+    "Gazespiral",
+    "Genripple",
+    "Lifedrain",
+    "Sealcircle",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 8,
+   "label": "Burning Stare",
+   "tiers": [
+    "NF_BurningStare_1"
+   ],
+   "stock": [
+    "Flamepillar",
+    "Gazespiral",
+    "Genripple",
+    "Lifedrain",
+    "Sealcircle",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 8,
+   "label": "Fatiguing Stare",
+   "tiers": [
+    "NF_FatiguingStare_1"
+   ],
+   "stock": [
+    "Flamepillar",
+    "Gazespiral",
+    "Genripple",
+    "Lifedrain",
+    "Sealcircle",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 9,
+   "label": "Demoralizing Stare",
+   "tiers": [
+    "NF_DemoralizingStare_1"
+   ],
+   "stock": [
+    "Flamepillar",
+    "Gazespiral",
+    "Genripple",
+    "Lifedrain",
+    "Sealcircle",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 9,
+   "label": "Wilting Stare",
+   "tiers": [
+    "NF_WiltingStare_1"
+   ],
+   "stock": [
+    "Flamepillar",
+    "Gazespiral",
+    "Genripple",
+    "Lifedrain",
+    "Sealcircle",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 9,
+   "label": "Majestic Stare",
+   "tiers": [
+    "NF_MajesticStare_1"
+   ],
+   "stock": [
+    "Flamepillar",
+    "Gazespiral",
+    "Genripple",
+    "Lifedrain",
+    "Sealcircle",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 9,
+   "label": "Gazing Genjutsu",
+   "tiers": [
+    "NF_GazingGenjutsu_1"
+   ],
+   "stock": [
+    "Flamepillar",
+    "Gazespiral",
+    "Genripple",
+    "Lifedrain",
+    "Sealcircle",
+    "Shadowburst"
+   ]
+  },
+  {
+   "batch": 9,
+   "label": "Telescopic Eye",
+   "tiers": [
+    "NF_TelescopicEye_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Genripple"
+   ]
+  },
+  {
+   "batch": 9,
+   "label": "Harichakra: Chakra Needles",
+   "tiers": [
+    "NF_ChakraNeedle_1",
+    "NF_ChakraNeedle_2"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Thruststab"
+   ]
+  },
+  {
+   "batch": 9,
+   "label": "Hakke: Chakra Transfer Palm",
+   "tiers": [
+    "NF_ChakraTransfer_1"
+   ],
+   "stock": [
+    "Healbloom",
+    "Healingglow"
+   ]
+  },
+  {
+   "batch": 9,
+   "label": "Chakra no Bodi: Body of Chakra",
+   "tiers": [
+    "NF_BodyOfChakra_1"
+   ],
+   "stock": [
+    "Chakraflare"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Hakke Kūshō: Eight Trigrams Empty Palm",
+   "tiers": [
+    "NF_EmptyPalm_1"
+   ],
+   "stock": [
+    "Groundslam",
+    "Palmwave"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Jūken Tenketsu: Gentle Fist Chakra Points",
+   "tiers": [
+    "NF_Tenketsu_1",
+    "NF_Tenketsu_2",
+    "NF_Tenketsu_3"
+   ],
+   "stock": [
+    "Palmwave",
+    "Pressurepoint",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Hakkeshō: Great Divination Whirl",
+   "tiers": [
+    "NF_GreatWhirl_1"
+   ],
+   "stock": [
+    "Spinring"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Hakke Hasangeki: Eight Trigrams Mountain Crusher",
+   "tiers": [
+    "NF_MountainCrusher_1"
+   ],
+   "stock": [
+    "Groundslam",
+    "Palmwave"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Hakke: One Hundred Twenty-Eight Palms",
+   "tiers": [
+    "NF_128Palms_1"
+   ],
+   "stock": [
+    "Palmwave",
+    "Pressurepoint",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Shugohakke: Protection of the Sixty-Four Palms",
+   "tiers": [
+    "NF_ProtectionPalms_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Crescentslash",
+    "Palmwave",
+    "Shockring"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Shinkan: Silence Gates",
+   "tiers": [
+    "NF_Silence_1",
+    "NF_Silence_2",
+    "NF_Silence_3"
+   ],
+   "stock": [
+    "Palmwave",
+    "Pressurepoint",
+    "Sealcircle"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Hakke Hazan Hōgeki: Crumbling Mountain Bombardment",
+   "tiers": [
+    "NF_CrumblingMountain_1"
+   ],
+   "stock": [
+    "Groundslam",
+    "Palmwave"
+   ]
+  },
+  {
+   "batch": 10,
+   "label": "Shugohakke: Protection of the White God",
+   "tiers": [
+    "NF_WhiteGod_1"
+   ],
+   "stock": [
+    "Chakraflare",
+    "Crescentslash",
+    "Palmwave",
+    "Shockring"
+   ]
+  }
+ ],
+ "kenseijin": {
+  "techs": [
+   "Gosei Draw",
+   "Gosei Double Draw",
+   "Gosei Spiral",
+   "Gosei Flash Spiral",
+   "Gosei Nest",
+   "Genkai Sweep",
+   "Genkai Gale",
+   "Genkai Parry Flash",
+   "Tsuyosa Disarm",
+   "Tsuyosa Oni Killer",
+   "Tsuyosa Re-entry"
+  ],
+  "stock": [
+   "Steelslash",
+   "Crescentslash",
+   "Windslash",
+   "Kickarc",
+   "Punchburst",
+   "Impactflash",
+   "Dustdebris",
+   "Groundslam",
+   "Thruststab",
+   "Smokepuff"
+  ]
+ }
+}
