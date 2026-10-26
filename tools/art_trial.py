@@ -4,6 +4,10 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 E = html.escape
 TRIALS = [
  (
+ 'chakrabar', 'Chakra bar in the dark slate look (design mockups)',
+  'The chakra box under a selected ninja, in the slate look of tab option A: normal, a technique being aimed (the part it would spend striped) and low chakra. Mockups only; today the bar is the paper scroll (u242).',
+  [('S1_slate_blue', 'S1 · Slate box, bright chakra-blue bar', 'A dark groove with steel diamond end caps; chakra as a bright blue bar, red when low.'), ('S2_slate_ink', 'S2 · Slate box, indigo ink stroke', "The same box, keeping today's indigo ink stroke (round end) instead of a bright bar.")]),
+ (
  'tabs', 'Pawn tab buttons in the NFRP look (design mockups)',
   'The tab row under a selected pawn. Shinobi is shown selected and Log hovered. The wooden look today comes from the PrettyUI mod. Mockups only, nothing is in the game.',
   [('O_current', 'Today (PrettyUI wood)', 'For comparison.'), ('A_slate', 'A · Dark slate, like the technique trees', 'Dark slate tabs with the thin steel-grey inset line and diamond of the tree backgrounds; the selected tab brightens.'), ('B_scroll', 'B · Paper scroll, like the chakra bar', 'Scroll paper between short wooden rods; the selected tab gets an indigo ink stroke and a vermilion seal.'), ('C_slate_seal', 'C · Slate with a paper selected tab', 'Dark slate tabs with cut corners; the selected tab turns to scroll paper with an ink stroke and a vermilion seal mark.')]),
